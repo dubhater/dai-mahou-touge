@@ -12,288 +12,288 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.40,0:00:03.80,Default,,0000,0000,0000,,Her name is Punie Tanaka.
-Dialogue: 0,0:00:03.94,0:00:06.60,Default,,0000,0000,0000,,She's a princess\Nfrom the land of magic.
-Dialogue: 0,0:00:06.71,0:00:11.97,Default,,0000,0000,0000,,She's currently going through with her\Nearthly trials. Good luck, Punie-chan!
-Dialogue: 0,0:00:20.69,0:00:23.78,Default,,0000,0000,0000,,{\i1}Magical Witch Punie- chan{\i0}
-Dialogue: 0,0:00:23.96,0:00:26.89,Default,,0000,0000,0000,,{\i1}Spin that Princess Rod.{\i0}
-Dialogue: 0,0:00:27.19,0:00:30.13,Default,,0000,0000,0000,,{\i1}She has descended\Nfrom the land of magic.{\i0}
-Dialogue: 0,0:00:30.46,0:00:33.59,Default,,0000,0000,0000,,{\i1}Spin that magical stick.{\i0}
-Dialogue: 0,0:00:33.70,0:00:36.69,Default,,0000,0000,0000,,{\i1}Pleased to meet you, Punie Tanaka.{\i0}
-Dialogue: 0,0:00:36.94,0:00:43.36,Default,,0000,0000,0000,,{\i1}Lightning, sweep, exterminate,\Nuse your powers and rule the world.{\i0}
-Dialogue: 0,0:00:43.51,0:00:48.31,Default,,0000,0000,0000,,{\i1}Don't trust those kind\Nwords and nice smiles.{\i0}
-Dialogue: 0,0:00:51.72,0:00:57.49,Default,,0000,0000,0000,,{\i1}Lyrical Tokarev, kill them all.{\i0}
-Dialogue: 0,0:00:57.79,0:01:04.42,Default,,0000,0000,0000,,{\i1}I will take you to the land of paradise.{\i0}
-Dialogue: 0,0:01:04.66,0:01:10.76,Default,,0000,0000,0000,,{\i1}Lyrical Tokarev, kill them all.{\i0}
-Dialogue: 0,0:01:10.87,0:01:19.68,Default,,0000,0000,0000,,{\i1}There's only one way\Nto survive, and that is to fight.{\i0}
-Dialogue: 0,0:01:27.25,0:01:38.29,Default,,0000,0000,0000,,{\i1}There's only one path that leads\Nto supremacy, and that is by fighting.{\i0}
-Dialogue: 0,0:01:42.10,0:01:44.07,Default,,0000,0000,0000,,{\i1}Railroad Journal{\i0}
-Dialogue: 0,0:01:45.30,0:01:47.64,Default,,0000,0000,0000,,Good morning, Tetsuko-chan!
-Dialogue: 0,0:01:50.74,0:01:52.14,Default,,0000,0000,0000,,Morning, Punie-chan.
-Dialogue: 0,0:01:52.24,0:01:53.81,Default,,0000,0000,0000,,We'll be late if we don't hurry.
-Dialogue: 0,0:01:53.81,0:01:55.97,Default,,0000,0000,0000,,We'll be late if we don't hurry.\NYou're right.
-Dialogue: 0,0:01:56.28,0:02:00.01,Default,,0000,0000,0000,,Dr. Yellow's HO is a limited edition.
-Dialogue: 0,0:02:00.82,0:02:02.62,Default,,0000,0000,0000,,{\i1}Handmade Noodles{\i0}
-Dialogue: 0,0:02:08.83,0:02:09.95,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:02:28.11,0:02:29.78,Default,,0000,0000,0000,,Ouch!
-Dialogue: 0,0:02:30.25,0:02:32.05,Default,,0000,0000,0000,,Tetsuko-chan, you okay?
-Dialogue: 0,0:02:32.15,0:02:34.98,Default,,0000,0000,0000,,This is horrible. Who'd make a pitfall?
-Dialogue: 0,0:02:35.49,0:02:38.08,Default,,0000,0000,0000,,You poor thing. I'll help you right away.
-Dialogue: 0,0:02:42.50,0:02:45.19,Default,,0000,0000,0000,,Think of that as my greeting, Punie.
-Dialogue: 0,0:02:46.06,0:02:48.40,Default,,0000,0000,0000,,{\i1}Episode 3:\NShocking Breakfast Strategy!?{\i0}
-Dialogue: 0,0:02:48.50,0:02:51.03,Default,,0000,0000,0000,,{\i1}If a Little Cuckoo\NDoesn't Chirp, Kill It!!{\i0}
-Dialogue: 0,0:02:51.57,0:02:52.97,Default,,0000,0000,0000,,A pitfall?
-Dialogue: 0,0:02:53.07,0:02:54.97,Default,,0000,0000,0000,,That's unfortunate.
-Dialogue: 0,0:02:55.24,0:02:57.40,Default,,0000,0000,0000,,That's right. I'm angry.
-Dialogue: 0,0:02:57.51,0:02:59.60,Default,,0000,0000,0000,,Well, you should be careful.
-Dialogue: 0,0:02:59.71,0:03:03.70,Default,,0000,0000,0000,,There are a lot of people who\Nhate your guts, including me.
-Dialogue: 0,0:03:04.05,0:03:06.02,Default,,0000,0000,0000,,Next up is Tanaka!
-Dialogue: 0,0:03:06.55,0:03:07.54,Default,,0000,0000,0000,,Right!
-Dialogue: 0,0:03:09.96,0:03:11.18,Default,,0000,0000,0000,,Here I go!
-Dialogue: 0,0:03:18.26,0:03:19.49,Default,,0000,0000,0000,,Tetsuko-chan.
-Dialogue: 0,0:03:20.23,0:03:22.43,Default,,0000,0000,0000,,Can you go ahead of me?
-Dialogue: 0,0:03:22.84,0:03:23.86,Default,,0000,0000,0000,,Sure.
-Dialogue: 0,0:03:24.50,0:03:27.10,Default,,0000,0000,0000,,Tetsuko Koku is going instead!
-Dialogue: 0,0:03:28.24,0:03:31.54,Default,,0000,0000,0000,,From Shinbashi with\Nthe sound of a whistle...
-Dialogue: 0,0:03:34.18,0:03:37.48,Default,,0000,0000,0000,,...our fast train leaves the station.
-Dialogue: 0,0:03:39.69,0:03:42.98,Default,,0000,0000,0000,,With the mountain\Nof Atago within sight...
-Dialogue: 0,0:03:44.92,0:03:49.22,Default,,0000,0000,0000,,...you embark on a journey\Nwith the moon as your friend. There!
-Dialogue: 0,0:04:06.14,0:04:07.84,Default,,0000,0000,0000,,This huge pitfall...
-Dialogue: 0,0:04:10.35,0:04:11.28,Default,,0000,0000,0000,,Could it be...
-Dialogue: 0,0:04:11.28,0:04:12.28,Default,,0000,0000,0000,,Could it be...\NYou avoided it nicely, Punie.
-Dialogue: 0,0:04:12.28,0:04:13.98,Default,,0000,0000,0000,,You avoided it nicely, Punie.
-Dialogue: 0,0:04:14.62,0:04:15.71,Default,,0000,0000,0000,,You!
-Dialogue: 0,0:04:15.82,0:04:17.88,Default,,0000,0000,0000,,But your luck's run out.
-Dialogue: 0,0:04:18.29,0:04:20.49,Default,,0000,0000,0000,,I'm here to take your life!
-Dialogue: 0,0:04:21.56,0:04:24.50,Default,,0000,0000,0000,,Hole-digger Ellie.\NSo it was you all along.
-Dialogue: 0,0:04:24.73,0:04:27.67,Default,,0000,0000,0000,,My name is Elise von Barbaroque.
-Dialogue: 0,0:04:27.77,0:04:32.07,Default,,0000,0000,0000,,Don't ever call me that again!\NGive me the right of succession!
-Dialogue: 0,0:04:32.37,0:04:33.63,Default,,0000,0000,0000,,Punie-chan.
-Dialogue: 0,0:04:33.74,0:04:37.44,Default,,0000,0000,0000,,Succession? Is she\Nan assassin from the land of magic?
-Dialogue: 0,0:04:37.71,0:04:41.34,Default,,0000,0000,0000,,Royal authority is sacred.\NI can't give it to you.
-Dialogue: 0,0:04:42.15,0:04:43.78,Default,,0000,0000,0000,,As I expected.
-Dialogue: 0,0:04:43.88,0:04:46.78,Default,,0000,0000,0000,,Then die by viper fangs!
-Dialogue: 0,0:04:46.89,0:04:49.05,Default,,0000,0000,0000,,Tekerettsu paa!
-Dialogue: 0,0:04:51.26,0:04:54.32,Default,,0000,0000,0000,,Lyrical Tokarev, kill them all!
-Dialogue: 0,0:04:54.43,0:04:56.19,Default,,0000,0000,0000,,Mongooses, appear!
-Dialogue: 0,0:04:59.23,0:05:01.53,Default,,0000,0000,0000,,Those mongooses are so cute!
-Dialogue: 0,0:05:13.71,0:05:16.34,Default,,0000,0000,0000,,Looks like we can't\Nsettle it with magic.
-Dialogue: 0,0:05:19.38,0:05:20.85,Default,,0000,0000,0000,,Then...
-Dialogue: 0,0:05:29.40,0:05:31.73,Default,,0000,0000,0000,,We'll have to use physical attacks!
-Dialogue: 0,0:05:50.75,0:05:52.34,Default,,0000,0000,0000,,She got behind Punie!
-Dialogue: 0,0:05:52.45,0:05:53.42,Default,,0000,0000,0000,,Punie-chan!
-Dialogue: 0,0:06:04.30,0:06:05.73,Default,,0000,0000,0000,,She did it.
-Dialogue: 0,0:06:27.05,0:06:32.15,Default,,0000,0000,0000,,Punie is good. Every one of\Nher moves can take me down.
-Dialogue: 0,0:06:32.26,0:06:37.29,Default,,0000,0000,0000,,If she gets a good grip, my joints\Nwill be bent in awkward directions!
-Dialogue: 0,0:06:40.03,0:06:43.87,Default,,0000,0000,0000,,Amazing... That lady\Nis fighting toe to toe with Punie.
-Dialogue: 0,0:06:43.97,0:06:46.20,Default,,0000,0000,0000,,Come on, Punie-chan!
-Dialogue: 0,0:06:47.81,0:06:50.74,Default,,0000,0000,0000,,But your perfection\Nis your greatest weakness.
-Dialogue: 0,0:06:50.84,0:06:52.37,Default,,0000,0000,0000,,That's where I'll strike!
-Dialogue: 0,0:06:56.18,0:06:57.12,Default,,0000,0000,0000,,She got her!
-Dialogue: 0,0:06:57.12,0:06:59.14,Default,,0000,0000,0000,,She got her!\NYou fell for it!
-Dialogue: 0,0:06:59.65,0:07:00.64,Default,,0000,0000,0000,,A dummy!
-Dialogue: 0,0:07:09.06,0:07:13.83,Default,,0000,0000,0000,,Those cuffs have the magic-inhibiting\Nmark of the evil god Anisakis.
-Dialogue: 0,0:07:14.10,0:07:18.76,Default,,0000,0000,0000,,Looks like you can't use your magic\Nor your submission holds, Punie.
-Dialogue: 0,0:07:20.97,0:07:22.03,Default,,0000,0000,0000,,Stop!
-Dialogue: 0,0:07:24.81,0:07:27.18,Default,,0000,0000,0000,,Why are you doing\Nsuch a cruel thing?
-Dialogue: 0,0:07:27.28,0:07:29.75,Default,,0000,0000,0000,,It's not right to take\Nthe throne by force!
-Dialogue: 0,0:07:31.82,0:07:33.94,Default,,0000,0000,0000,,This isn't right?
-Dialogue: 0,0:07:34.75,0:07:36.31,Default,,0000,0000,0000,,You've misunderstood!
-Dialogue: 0,0:07:36.42,0:07:39.88,Default,,0000,0000,0000,,The Tanaka family is\Nthe one who usurped the throne!
-Dialogue: 0,0:07:43.46,0:07:48.56,Default,,0000,0000,0000,,My father, King Barbaroque, was\Na wise monarch loved by his people.
-Dialogue: 0,0:07:59.51,0:08:00.64,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:08:01.18,0:08:03.18,Default,,0000,0000,0000,,{\i1}Suspicious empire{\i0}
-Dialogue: 0,0:08:03.18,0:08:06.15,Default,,0000,0000,0000,,{\i1}Rise and revolt!\NOverthrow the traitor!{\i0}
-Dialogue: 0,0:08:25.24,0:08:30.07,Default,,0000,0000,0000,,We were cast out thanks to Punie's\Nmother, Esmeralda, and her dirty plan.
-Dialogue: 0,0:08:35.08,0:08:39.58,Default,,0000,0000,0000,,I should've been the princess\Nof Saint Magical Kingdom!
-Dialogue: 0,0:08:40.89,0:08:43.18,Default,,0000,0000,0000,,What? That can't be!
-Dialogue: 0,0:08:43.89,0:08:46.65,Default,,0000,0000,0000,,Punie-chan, say something!
-Dialogue: 0,0:08:48.90,0:08:52.16,Default,,0000,0000,0000,,Your father was incompetent,\Nso he was overthrown.
-Dialogue: 0,0:08:52.50,0:08:53.37,Default,,0000,0000,0000,,What?
-Dialogue: 0,0:08:53.37,0:08:54.66,Default,,0000,0000,0000,,What?\NPunie-chan!
-Dialogue: 0,0:08:55.03,0:08:57.56,Default,,0000,0000,0000,,As a matter of fact,\Nyou should be grateful.
-Dialogue: 0,0:08:57.67,0:09:00.66,Default,,0000,0000,0000,,Since he was\Nthrown out instead of beheaded.
-Dialogue: 0,0:09:02.74,0:09:08.24,Default,,0000,0000,0000,,The king was incompetent, so he's\Nhaving a hard time getting a job.
-Dialogue: 0,0:09:09.08,0:09:11.98,Default,,0000,0000,0000,,He goes to the Hello Work\Nhiring office daily...
-Dialogue: 0,0:09:12.08,0:09:14.88,Default,,0000,0000,0000,,...and Mother does housework\Nand makes fake flowers.
-Dialogue: 0,0:09:14.99,0:09:19.89,Default,,0000,0000,0000,,We're in such needy circumstances,\Nand our lives are like hell itself.
-Dialogue: 0,0:09:21.39,0:09:24.56,Default,,0000,0000,0000,,Now it's your family's turn to suffer!
-Dialogue: 0,0:09:31.84,0:09:33.24,Default,,0000,0000,0000,,Not good, not good.
-Dialogue: 0,0:09:33.34,0:09:35.33,Default,,0000,0000,0000,,Punie's in big trouble!
-Dialogue: 0,0:09:35.44,0:09:37.38,Default,,0000,0000,0000,,What should I do? What should I do?
-Dialogue: 0,0:09:37.48,0:09:39.64,Default,,0000,0000,0000,,Please calm down, honey.
-Dialogue: 0,0:09:39.74,0:09:41.34,Default,,0000,0000,0000,,Yes, but...
-Dialogue: 0,0:09:42.05,0:09:44.81,Default,,0000,0000,0000,,If she has trouble\Ndefeating such a foe...
-Dialogue: 0,0:09:44.92,0:09:47.85,Default,,0000,0000,0000,,...then she's unworthy\Nof being my successor.
-Dialogue: 0,0:09:58.33,0:09:59.30,Default,,0000,0000,0000,,Die!
-Dialogue: 0,0:10:08.04,0:10:11.30,Default,,0000,0000,0000,,Did you think\Nhandcuffs could restrain me?
-Dialogue: 0,0:10:11.68,0:10:12.70,Default,,0000,0000,0000,,Shut up!
-Dialogue: 0,0:10:12.81,0:10:15.37,Default,,0000,0000,0000,,Princess Capoeira Kick!
-Dialogue: 0,0:10:20.19,0:10:23.78,Default,,0000,0000,0000,,You've misunderstood\Nthe meaning of a legitimate monarch.
-Dialogue: 0,0:10:23.89,0:10:26.62,Default,,0000,0000,0000,,You have to claim\Nthe throne with power!
-Dialogue: 0,0:10:27.39,0:10:30.83,Default,,0000,0000,0000,,Shut your mouth, little girl!\NYou're still handcuffed, you know!
-Dialogue: 0,0:10:31.26,0:10:33.92,Default,,0000,0000,0000,,So you think it's\Nover if I'm handcuffed?
-Dialogue: 0,0:10:34.53,0:10:35.69,Default,,0000,0000,0000,,Silly.
-Dialogue: 0,0:10:36.00,0:10:39.94,Default,,0000,0000,0000,,Such a thing in the 4,000-year\Nhistory of submission holds...
-Dialogue: 0,0:10:59.19,0:11:00.56,Default,,0000,0000,0000,,It's over.
-Dialogue: 0,0:11:00.86,0:11:02.59,Default,,0000,0000,0000,,I assumed I'd win.
-Dialogue: 0,0:11:04.93,0:11:07.90,Default,,0000,0000,0000,,Princess Figure-four Leglock!
-Dialogue: 0,0:11:10.10,0:11:12.63,Default,,0000,0000,0000,,If I can just reverse this move...
-Dialogue: 0,0:11:23.18,0:11:25.24,Default,,0000,0000,0000,,Princess STF!
-Dialogue: 0,0:11:26.79,0:11:29.38,Default,,0000,0000,0000,,Princess Reverse Armbar!
-Dialogue: 0,0:11:30.79,0:11:33.12,Default,,0000,0000,0000,,Princess Prison Break.
-Dialogue: 0,0:11:34.53,0:11:37.02,Default,,0000,0000,0000,,Princess Chicken-wing Facelock!
-Dialogue: 0,0:11:38.16,0:11:40.32,Default,,0000,0000,0000,,Princess Monji Lock!
-Dialogue: 0,0:11:51.54,0:11:55.88,Default,,0000,0000,0000,,She might've been\Nbetter off getting hurt by magic...
-Dialogue: 0,0:11:56.05,0:11:58.18,Default,,0000,0000,0000,,She's such a vicious woman.
-Dialogue: 0,0:11:58.82,0:12:01.18,Default,,0000,0000,0000,,Did I do too much? Oops.
-Dialogue: 0,0:12:01.29,0:12:03.26,Default,,0000,0000,0000,,What do you mean "oops"?
-Dialogue: 0,0:12:04.72,0:12:06.09,Default,,0000,0000,0000,,{\i1}Episode 4:{\i0}
-Dialogue: 0,0:12:06.19,0:12:09.68,Default,,0000,0000,0000,,{\i1}Oh, So Cute! Did You Know the\NChances of Having Twins Are 1/120?{\i0}
-Dialogue: 0,0:12:14.43,0:12:15.17,Default,,0000,0000,0000,,Hey.
-Dialogue: 0,0:12:15.17,0:12:16.40,Default,,0000,0000,0000,,Hey.\NYou there.
-Dialogue: 0,0:12:17.94,0:12:22.27,Default,,0000,0000,0000,,The old lady with the aging skin.\NDo you know this person?
-Dialogue: 0,0:12:22.91,0:12:25.43,Default,,0000,0000,0000,,Me? Are you talking about me?
-Dialogue: 0,0:12:25.54,0:12:28.01,Default,,0000,0000,0000,,Who else would it be?
-Dialogue: 0,0:12:28.11,0:12:31.38,Default,,0000,0000,0000,,There's only one person\Nhere with aging skin...
-Dialogue: 0,0:12:31.48,0:12:34.28,Default,,0000,0000,0000,,...and a lifeless, stiff face, old lady.
-Dialogue: 0,0:12:34.39,0:12:35.61,Default,,0000,0000,0000,,Old lady.
-Dialogue: 0,0:12:37.82,0:12:40.05,Default,,0000,0000,0000,,Oh, that's Punie-chan.
-Dialogue: 0,0:12:40.16,0:12:42.15,Default,,0000,0000,0000,,She's our friend.
-Dialogue: 0,0:12:42.50,0:12:46.33,Default,,0000,0000,0000,,Oh, you old ladies\Nare friends with our sister?
-Dialogue: 0,0:12:47.27,0:12:50.86,Default,,0000,0000,0000,,I'm surprised that\Nthe brute actually has friends!
-Dialogue: 0,0:12:50.97,0:12:54.00,Default,,0000,0000,0000,,Are you two\NPunie-chan's younger sisters?
-Dialogue: 0,0:12:54.27,0:12:56.01,Default,,0000,0000,0000,,Her younger sister, Pyun Tanaka.
-Dialogue: 0,0:12:56.01,0:12:58.31,Default,,0000,0000,0000,,Her younger sister, Pyun Tanaka.\NAnd Potaru Tanaka.
-Dialogue: 0,0:12:58.98,0:13:01.10,Default,,0000,0000,0000,,Remember our names, idiots!
-Dialogue: 0,0:13:02.08,0:13:06.58,Default,,0000,0000,0000,,They're definitely Punie's sisters.\NWhat vicious powers do they have...
-Dialogue: 0,0:13:07.19,0:13:10.18,Default,,0000,0000,0000,,Hurry up and take us to our sister.
-Dialogue: 0,0:13:10.29,0:13:13.55,Default,,0000,0000,0000,,Did you hear us,\Nyou idiot-faced blockhead?
-Dialogue: 0,0:13:13.93,0:13:16.49,Default,,0000,0000,0000,,If I go easy, they'll beat me.
-Dialogue: 0,0:13:16.60,0:13:19.76,Default,,0000,0000,0000,,You brats!\NYou'd better watch what you say!
-Dialogue: 0,0:13:19.86,0:13:22.10,Default,,0000,0000,0000,,Ouch! It hurts!
-Dialogue: 0,0:13:22.20,0:13:23.63,Default,,0000,0000,0000,,That's terrible!
-Dialogue: 0,0:13:23.74,0:13:25.83,Default,,0000,0000,0000,,What are you doing, Anego-san?
-Dialogue: 0,0:13:25.94,0:13:28.13,Default,,0000,0000,0000,,What the hell? They're so weak.
-Dialogue: 0,0:13:28.84,0:13:32.11,Default,,0000,0000,0000,,I'll get revenge on Punie\Nby taking it out on them.
-Dialogue: 0,0:13:34.01,0:13:35.17,Default,,0000,0000,0000,,Big Sister!
-Dialogue: 0,0:13:35.28,0:13:36.51,Default,,0000,0000,0000,,Pyun! Potaru!
-Dialogue: 0,0:13:36.92,0:13:38.47,Default,,0000,0000,0000,,Big Sister!
-Dialogue: 0,0:13:38.78,0:13:40.72,Default,,0000,0000,0000,,Pyun! Potaru!
-Dialogue: 0,0:13:41.62,0:13:45.45,Default,,0000,0000,0000,,They haven't seen each other in\Nso long. Get yourselves pampered.
-Dialogue: 0,0:13:51.93,0:13:55.99,Default,,0000,0000,0000,,Hand over the right of succession\Nto us, you rotten witch!
-Dialogue: 0,0:13:56.10,0:13:57.62,Default,,0000,0000,0000,,You evil witch!
-Dialogue: 0,0:13:57.74,0:14:01.50,Default,,0000,0000,0000,,That's why you came to Earth?\NYou don't know when to quit.
-Dialogue: 0,0:14:01.77,0:14:04.37,Default,,0000,0000,0000,,Payatan and\NHole-digger Ellie were the same.
-Dialogue: 0,0:14:04.48,0:14:09.47,Default,,0000,0000,0000,,Why does everyone from the land\Nof magic want to kill Punie-chan?
-Dialogue: 0,0:14:11.12,0:14:13.78,Default,,0000,0000,0000,,The right of succession aside...
-Dialogue: 0,0:14:16.02,0:14:18.19,Default,,0000,0000,0000,,Don't use sharp objects in the streets!
-Dialogue: 0,0:14:18.19,0:14:19.92,Default,,0000,0000,0000,,Don't use sharp objects in the streets!\NWe're sorry!
-Dialogue: 0,0:14:20.46,0:14:24.42,Default,,0000,0000,0000,,I have to go to school, so stay\Nat the Punie house and behave.
-Dialogue: 0,0:14:24.53,0:14:26.05,Default,,0000,0000,0000,,Okay...
-Dialogue: 0,0:14:31.17,0:14:35.20,Default,,0000,0000,0000,,That's not like you.\NLetting them go after a spanking.
-Dialogue: 0,0:14:35.31,0:14:36.74,Default,,0000,0000,0000,,Oh, really?
-Dialogue: 0,0:14:37.14,0:14:42.20,Default,,0000,0000,0000,,It was too easy. They say even lions\Nare serious when hunting rabbits.
-Dialogue: 0,0:14:43.65,0:14:45.95,Default,,0000,0000,0000,,Of course I'm serious...
-Dialogue: 0,0:14:46.05,0:14:47.45,Default,,0000,0000,0000,,...when I hunt.
-Dialogue: 0,0:14:47.72,0:14:50.09,Default,,0000,0000,0000,,Like I thought. You're vicious, Punie.
-Dialogue: 0,0:14:54.09,0:14:58.03,Default,,0000,0000,0000,,We came for her head,\Nbut we ended up really embarrassed.
-Dialogue: 0,0:14:58.13,0:15:02.00,Default,,0000,0000,0000,,We won't let her get away\Nwith this! That goby witch!
-Dialogue: 0,0:15:09.58,0:15:11.24,Default,,0000,0000,0000,,I'm Payatan!
-Dialogue: 0,0:15:11.34,0:15:13.50,Default,,0000,0000,0000,,Hey, fake mammal!
-Dialogue: 0,0:15:13.88,0:15:16.01,Default,,0000,0000,0000,,Come here for a second.
-Dialogue: 0,0:15:16.72,0:15:18.71,Default,,0000,0000,0000,,What is it, paya?
-Dialogue: 0,0:15:18.95,0:15:21.94,Default,,0000,0000,0000,,Are you giving me\Nsomething good to eat, paya?
-Dialogue: 0,0:15:23.56,0:15:26.96,Default,,0000,0000,0000,,We're the only ones here, Payatan.
-Dialogue: 0,0:15:27.59,0:15:30.93,Default,,0000,0000,0000,,Or should I say\NColonel Paya Livingston?
-Dialogue: 0,0:15:33.97,0:15:36.02,Default,,0000,0000,0000,,What is this about?
-Dialogue: 0,0:15:36.57,0:15:39.97,Default,,0000,0000,0000,,Abandon our sister\Nand become our mascot.
-Dialogue: 0,0:15:40.07,0:15:42.54,Default,,0000,0000,0000,,We'll guarantee you'll succeed in life.
-Dialogue: 0,0:15:42.64,0:15:45.63,Default,,0000,0000,0000,,Oh, jeez. Not that story again...
-Dialogue: 0,0:15:52.88,0:15:57.15,Default,,0000,0000,0000,,Come up with a better story next time.
-Dialogue: 0,0:15:59.52,0:16:00.53,Default,,0000,0000,0000,,See you.
-Dialogue: 0,0:16:00.53,0:16:01.49,Default,,0000,0000,0000,,See you.\NWait!
-Dialogue: 0,0:16:01.86,0:16:05.23,Default,,0000,0000,0000,,You think you can get away\Nby turning your back to us?
-Dialogue: 0,0:16:05.83,0:16:08.03,Default,,0000,0000,0000,,Listen, little girls.
-Dialogue: 0,0:16:08.13,0:16:10.46,Default,,0000,0000,0000,,Punie might be nice to you...
-Dialogue: 0,0:16:11.67,0:16:13.83,Default,,0000,0000,0000,,...but I'm not nice at all.
-Dialogue: 0,0:16:13.94,0:16:16.93,Default,,0000,0000,0000,,A pet with a bad mouth like that.
-Dialogue: 0,0:16:17.04,0:16:18.77,Default,,0000,0000,0000,,I'm disappointed, Potaru.
-Dialogue: 0,0:16:18.88,0:16:22.71,Default,,0000,0000,0000,,You're right, Pyun.\NI thought he'd make a good mascot.
-Dialogue: 0,0:16:23.75,0:16:25.81,Default,,0000,0000,0000,,Let's go find another one.
-Dialogue: 0,0:16:27.62,0:16:29.92,Default,,0000,0000,0000,,Those rings! Don't tell me...
-Dialogue: 0,0:16:32.02,0:16:34.86,Default,,0000,0000,0000,,S-Stop!
-Dialogue: 0,0:16:39.03,0:16:42.16,Default,,0000,0000,0000,,They're foul-mouthed,\Nbut your sisters are cute.
-Dialogue: 0,0:16:42.27,0:16:46.10,Default,,0000,0000,0000,,Right. They're much younger,\Nso I adore them very much.
-Dialogue: 0,0:16:46.20,0:16:48.10,Default,,0000,0000,0000,,I end up pampering them.
-Dialogue: 0,0:16:48.21,0:16:49.23,Default,,0000,0000,0000,,Let's go!
-Dialogue: 0,0:16:52.94,0:16:55.61,Default,,0000,0000,0000,,I heard the sound of a carriage.
-Dialogue: 0,0:16:58.35,0:16:59.37,Default,,0000,0000,0000,,Let's go!
-Dialogue: 0,0:17:03.82,0:17:05.05,Default,,0000,0000,0000,,Payatan!
-Dialogue: 0,0:17:05.16,0:17:08.22,Default,,0000,0000,0000,,P-Punie-sama, be careful...
-Dialogue: 0,0:17:09.06,0:17:10.32,Default,,0000,0000,0000,,Payatan...
-Dialogue: 0,0:17:10.93,0:17:12.95,Default,,0000,0000,0000,,Those girls...
-Dialogue: 0,0:17:13.73,0:17:16.26,Default,,0000,0000,0000,,Those girls have in their hands...
-Dialogue: 0,0:17:25.34,0:17:26.33,Default,,0000,0000,0000,,Payatan!
-Dialogue: 0,0:17:39.56,0:17:41.62,Default,,0000,0000,0000,,Pyun... Potaru...
-Dialogue: 0,0:17:43.16,0:17:45.65,Default,,0000,0000,0000,,I think I'm a little angry now.
-Dialogue: 0,0:17:45.96,0:17:48.23,Default,,0000,0000,0000,,We're already angry.
-Dialogue: 0,0:17:48.33,0:17:51.27,Default,,0000,0000,0000,,You embarrassed us\Nso many times in the past.
-Dialogue: 0,0:17:51.57,0:17:54.47,Default,,0000,0000,0000,,We can't go on\Nwithout getting our revenge!
-Dialogue: 0,0:17:55.17,0:17:58.70,Default,,0000,0000,0000,,That's the royal family's\Nclass-A magic equipment...
-Dialogue: 0,0:17:58.81,0:18:01.44,Default,,0000,0000,0000,,The Ring of the Immoral!
-Dialogue: 0,0:18:01.98,0:18:05.71,Default,,0000,0000,0000,,Lyrical Tokarev, destroy everything!
-Dialogue: 0,0:18:15.13,0:18:16.82,Default,,0000,0000,0000,,What happened?
-Dialogue: 0,0:18:20.57,0:18:23.54,Default,,0000,0000,0000,,I am Zephel Yetzler.
-Dialogue: 0,0:18:23.77,0:18:26.43,Default,,0000,0000,0000,,A wandering soul with no master.
-Dialogue: 0,0:18:26.97,0:18:28.60,Default,,0000,0000,0000,,He's trouble, paya...
-Dialogue: 0,0:18:28.71,0:18:32.94,Default,,0000,0000,0000,,He's one of the oldest gods\Nfrom before mythical times...
-Dialogue: 0,0:18:33.34,0:18:35.94,Default,,0000,0000,0000,,He's unbelievably strong, paya...
-Dialogue: 0,0:18:52.30,0:18:53.46,Default,,0000,0000,0000,,What now?
-Dialogue: 0,0:18:53.56,0:18:56.69,Default,,0000,0000,0000,,Magic is ineffective\Nagainst a god, idiot.
-Dialogue: 0,0:18:56.80,0:19:02.30,Default,,0000,0000,0000,,Since he's that big, you can't use\Nyour submission holds, loser.
-Dialogue: 0,0:19:02.64,0:19:06.48,Default,,0000,0000,0000,,Give us the right of succession\Nand we'll spare you, filthy punk.
-Dialogue: 0,0:19:06.58,0:19:10.71,Default,,0000,0000,0000,,On your knees.\NCry and beg for your life, you bitch.
-Dialogue: 0,0:19:11.62,0:19:13.52,Default,,0000,0000,0000,,That's all you have to say?
-Dialogue: 0,0:19:13.62,0:19:14.71,Default,,0000,0000,0000,,What?
-Dialogue: 0,0:19:15.22,0:19:18.09,Default,,0000,0000,0000,,Say everything you're thinking.
-Dialogue: 0,0:19:18.19,0:19:20.89,Default,,0000,0000,0000,,Because they'll be your last words.
-Dialogue: 0,0:19:22.16,0:19:26.15,Default,,0000,0000,0000,,Pyun, don't hesitate.\NThis is one of her usual dirty tricks.
-Dialogue: 0,0:19:26.26,0:19:28.70,Default,,0000,0000,0000,,She can't possibly win against a god.
-Dialogue: 0,0:19:28.80,0:19:30.39,Default,,0000,0000,0000,,Yeah, you're right.
-Dialogue: 0,0:19:31.20,0:19:34.37,Default,,0000,0000,0000,,Zephel, get rid of that insidious witch!
-Dialogue: 0,0:19:49.76,0:19:51.35,Default,,0000,0000,0000,,I told you before.
-Dialogue: 0,0:19:51.46,0:19:54.32,Default,,0000,0000,0000,,A champion uses submission holds.
-Dialogue: 0,0:19:57.40,0:19:58.83,Default,,0000,0000,0000,,He did it!
-Dialogue: 0,0:20:00.87,0:20:04.20,Default,,0000,0000,0000,,There's no submission\Nhold that won't work!
-Dialogue: 0,0:20:06.44,0:20:09.41,Default,,0000,0000,0000,,Princess Figure-four Fingerlock!
-Dialogue: 0,0:20:15.41,0:20:16.47,Default,,0000,0000,0000,,Give up?
-Dialogue: 0,0:20:16.58,0:20:18.95,Default,,0000,0000,0000,,No! No!
-Dialogue: 0,0:20:19.05,0:20:20.54,Default,,0000,0000,0000,,Come on!
-Dialogue: 0,0:20:29.63,0:20:32.19,Default,,0000,0000,0000,,You're that witch from back then!
-Dialogue: 0,0:20:32.30,0:20:35.06,Default,,0000,0000,0000,,Long time no see, Zephel Yetzler.
-Dialogue: 0,0:20:38.10,0:20:40.30,Default,,0000,0000,0000,,Spare me!
-Dialogue: 0,0:20:42.94,0:20:48.07,Default,,0000,0000,0000,,Punie-chan,\Nwhat did you do to that god?
-Dialogue: 0,0:20:49.31,0:20:50.28,Default,,0000,0000,0000,,Now...
-Dialogue: 0,0:20:53.08,0:20:55.18,Default,,0000,0000,0000,,Pyun, Potaru...
-Dialogue: 0,0:20:55.29,0:21:00.99,Default,,0000,0000,0000,,If you do this again, I'll keep applying\Nsubmission holds again and again...
-Dialogue: 0,0:21:01.53,0:21:04.15,Default,,0000,0000,0000,,...till your flesh and bones turn to dust.
-Dialogue: 0,0:21:04.26,0:21:05.82,Default,,0000,0000,0000,,We're sorry!
-Dialogue: 0,0:21:06.16,0:21:09.56,Default,,0000,0000,0000,,As long as you understand.\NI'll make you some pancakes.
-Dialogue: 0,0:21:09.64,0:21:12.54,Default,,0000,0000,0000,,Yay! Yay! Yay!
-Dialogue: 0,0:21:12.84,0:21:15.36,Default,,0000,0000,0000,,I really like your pancakes!
-Dialogue: 0,0:21:15.47,0:21:16.63,Default,,0000,0000,0000,,And honey?
-Dialogue: 0,0:21:16.74,0:21:19.23,Default,,0000,0000,0000,,Of course. I'll pour plenty of it.
-Dialogue: 0,0:21:19.34,0:21:20.24,Default,,0000,0000,0000,,Yay!
-Dialogue: 0,0:21:20.34,0:21:23.01,Default,,0000,0000,0000,,Fear the land of magic...
-Dialogue: 0,0:21:29.69,0:21:33.65,Default,,0000,0000,0000,,You're getting closer to becoming\Na weak character like me.
-Dialogue: 0,0:21:53.41,0:22:01.25,Default,,0000,0000,0000,,{\i1}If you bend the knees upside down...{\i0}
-Dialogue: 0,0:22:01.52,0:22:08.86,Default,,0000,0000,0000,,{\i1}...even your belief about\Ncrushing a rock becomes distorted.{\i0}
-Dialogue: 0,0:22:09.53,0:22:17.02,Default,,0000,0000,0000,,{\i1}Good, justice, and even the truth\Nis gone when you feel the pain.{\i0}
-Dialogue: 0,0:22:17.14,0:22:25.54,Default,,0000,0000,0000,,{\i1}Even those with fortitude have joints.{\i0}
-Dialogue: 0,0:22:25.68,0:22:33.55,Default,,0000,0000,0000,,{\i1}Take a look. This is\Nthe submission of a monarch.{\i0}
-Dialogue: 0,0:22:33.75,0:22:46.22,Default,,0000,0000,0000,,{\i1}As long as you\Nhave fortitude, you will prosper.{\i0}
-Dialogue: 0,0:23:06.68,0:23:10.02,Default,,0000,0000,0000,,Next, "Can You Decide\NSomeone's Value with Test Scores?"
-Dialogue: 0,0:23:10.12,0:23:12.99,Default,,0000,0000,0000,,"I'm Probably a Zero Anyway.\NThat's Right."
-Dialogue: 0,0:23:13.09,0:23:16.18,Default,,0000,0000,0000,,"When I Saw You Sweep Back\NYour Bangs Under the Apple Tree...
-Dialogue: 0,0:23:16.29,0:23:21.13,Default,,0000,0000,0000,,...with the Flower-comb in Your Hair,\NI Thought You Were a Flower Too."
+Dialogue: 0,0:00:01.40,0:00:03.80,Default,,0,0,0,,Her name is Punie Tanaka.
+Dialogue: 0,0:00:03.94,0:00:06.60,Default,,0,0,0,,She's a princess\Nfrom the land of magic.
+Dialogue: 0,0:00:06.71,0:00:11.97,Default,,0,0,0,,She's currently going through with her\Nearthly trials. Good luck, Punie-chan!
+Dialogue: 0,0:00:20.69,0:00:23.78,Default,,0,0,0,,{\i1}Magical Witch Punie- chan{\i0}
+Dialogue: 0,0:00:23.96,0:00:26.89,Default,,0,0,0,,{\i1}Spin that Princess Rod.{\i0}
+Dialogue: 0,0:00:27.19,0:00:30.13,Default,,0,0,0,,{\i1}She has descended\Nfrom the land of magic.{\i0}
+Dialogue: 0,0:00:30.46,0:00:33.59,Default,,0,0,0,,{\i1}Spin that magical stick.{\i0}
+Dialogue: 0,0:00:33.70,0:00:36.69,Default,,0,0,0,,{\i1}Pleased to meet you, Punie Tanaka.{\i0}
+Dialogue: 0,0:00:36.94,0:00:43.36,Default,,0,0,0,,{\i1}Lightning, sweep, exterminate,\Nuse your powers and rule the world.{\i0}
+Dialogue: 0,0:00:43.51,0:00:48.31,Default,,0,0,0,,{\i1}Don't trust those kind\Nwords and nice smiles.{\i0}
+Dialogue: 0,0:00:51.72,0:00:57.49,Default,,0,0,0,,{\i1}Lyrical Tokarev, kill them all.{\i0}
+Dialogue: 0,0:00:57.79,0:01:04.42,Default,,0,0,0,,{\i1}I will take you to the land of paradise.{\i0}
+Dialogue: 0,0:01:04.66,0:01:10.76,Default,,0,0,0,,{\i1}Lyrical Tokarev, kill them all.{\i0}
+Dialogue: 0,0:01:10.87,0:01:19.68,Default,,0,0,0,,{\i1}There's only one way\Nto survive, and that is to fight.{\i0}
+Dialogue: 0,0:01:27.25,0:01:38.29,Default,,0,0,0,,{\i1}There's only one path that leads\Nto supremacy, and that is by fighting.{\i0}
+Dialogue: 0,0:01:42.10,0:01:44.07,Default,,0,0,0,,{\i1}Railroad Journal{\i0}
+Dialogue: 0,0:01:45.30,0:01:47.64,Default,,0,0,0,,Good morning, Tetsuko-chan!
+Dialogue: 0,0:01:50.74,0:01:52.14,Default,,0,0,0,,Morning, Punie-chan.
+Dialogue: 0,0:01:52.24,0:01:53.81,Default,,0,0,0,,We'll be late if we don't hurry.
+Dialogue: 0,0:01:53.81,0:01:55.97,Default,,0,0,0,,We'll be late if we don't hurry.\NYou're right.
+Dialogue: 0,0:01:56.28,0:02:00.01,Default,,0,0,0,,Dr. Yellow's HO is a limited edition.
+Dialogue: 0,0:02:00.82,0:02:02.62,Default,,0,0,0,,{\i1}Handmade Noodles{\i0}
+Dialogue: 0,0:02:08.83,0:02:09.95,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:02:28.11,0:02:29.78,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:02:30.25,0:02:32.05,Default,,0,0,0,,Tetsuko-chan, you okay?
+Dialogue: 0,0:02:32.15,0:02:34.98,Default,,0,0,0,,This is horrible. Who'd make a pitfall?
+Dialogue: 0,0:02:35.49,0:02:38.08,Default,,0,0,0,,You poor thing. I'll help you right away.
+Dialogue: 0,0:02:42.50,0:02:45.19,Default,,0,0,0,,Think of that as my greeting, Punie.
+Dialogue: 0,0:02:46.06,0:02:48.40,Default,,0,0,0,,{\i1}Episode 3:\NShocking Breakfast Strategy!?{\i0}
+Dialogue: 0,0:02:48.50,0:02:51.03,Default,,0,0,0,,{\i1}If a Little Cuckoo\NDoesn't Chirp, Kill It!!{\i0}
+Dialogue: 0,0:02:51.57,0:02:52.97,Default,,0,0,0,,A pitfall?
+Dialogue: 0,0:02:53.07,0:02:54.97,Default,,0,0,0,,That's unfortunate.
+Dialogue: 0,0:02:55.24,0:02:57.40,Default,,0,0,0,,That's right. I'm angry.
+Dialogue: 0,0:02:57.51,0:02:59.60,Default,,0,0,0,,Well, you should be careful.
+Dialogue: 0,0:02:59.71,0:03:03.70,Default,,0,0,0,,There are a lot of people who\Nhate your guts, including me.
+Dialogue: 0,0:03:04.05,0:03:06.02,Default,,0,0,0,,Next up is Tanaka!
+Dialogue: 0,0:03:06.55,0:03:07.54,Default,,0,0,0,,Right!
+Dialogue: 0,0:03:09.96,0:03:11.18,Default,,0,0,0,,Here I go!
+Dialogue: 0,0:03:18.26,0:03:19.49,Default,,0,0,0,,Tetsuko-chan.
+Dialogue: 0,0:03:20.23,0:03:22.43,Default,,0,0,0,,Can you go ahead of me?
+Dialogue: 0,0:03:22.84,0:03:23.86,Default,,0,0,0,,Sure.
+Dialogue: 0,0:03:24.50,0:03:27.10,Default,,0,0,0,,Tetsuko Koku is going instead!
+Dialogue: 0,0:03:28.24,0:03:31.54,Default,,0,0,0,,From Shinbashi with\Nthe sound of a whistle...
+Dialogue: 0,0:03:34.18,0:03:37.48,Default,,0,0,0,,...our fast train leaves the station.
+Dialogue: 0,0:03:39.69,0:03:42.98,Default,,0,0,0,,With the mountain\Nof Atago within sight...
+Dialogue: 0,0:03:44.92,0:03:49.22,Default,,0,0,0,,...you embark on a journey\Nwith the moon as your friend. There!
+Dialogue: 0,0:04:06.14,0:04:07.84,Default,,0,0,0,,This huge pitfall...
+Dialogue: 0,0:04:10.35,0:04:11.28,Default,,0,0,0,,Could it be...
+Dialogue: 0,0:04:11.28,0:04:12.28,Default,,0,0,0,,Could it be...\NYou avoided it nicely, Punie.
+Dialogue: 0,0:04:12.28,0:04:13.98,Default,,0,0,0,,You avoided it nicely, Punie.
+Dialogue: 0,0:04:14.62,0:04:15.71,Default,,0,0,0,,You!
+Dialogue: 0,0:04:15.82,0:04:17.88,Default,,0,0,0,,But your luck's run out.
+Dialogue: 0,0:04:18.29,0:04:20.49,Default,,0,0,0,,I'm here to take your life!
+Dialogue: 0,0:04:21.56,0:04:24.50,Default,,0,0,0,,Hole-digger Ellie.\NSo it was you all along.
+Dialogue: 0,0:04:24.73,0:04:27.67,Default,,0,0,0,,My name is Elise von Barbaroque.
+Dialogue: 0,0:04:27.77,0:04:32.07,Default,,0,0,0,,Don't ever call me that again!\NGive me the right of succession!
+Dialogue: 0,0:04:32.37,0:04:33.63,Default,,0,0,0,,Punie-chan.
+Dialogue: 0,0:04:33.74,0:04:37.44,Default,,0,0,0,,Succession? Is she\Nan assassin from the land of magic?
+Dialogue: 0,0:04:37.71,0:04:41.34,Default,,0,0,0,,Royal authority is sacred.\NI can't give it to you.
+Dialogue: 0,0:04:42.15,0:04:43.78,Default,,0,0,0,,As I expected.
+Dialogue: 0,0:04:43.88,0:04:46.78,Default,,0,0,0,,Then die by viper fangs!
+Dialogue: 0,0:04:46.89,0:04:49.05,Default,,0,0,0,,Tekerettsu paa!
+Dialogue: 0,0:04:51.26,0:04:54.32,Default,,0,0,0,,Lyrical Tokarev, kill them all!
+Dialogue: 0,0:04:54.43,0:04:56.19,Default,,0,0,0,,Mongooses, appear!
+Dialogue: 0,0:04:59.23,0:05:01.53,Default,,0,0,0,,Those mongooses are so cute!
+Dialogue: 0,0:05:13.71,0:05:16.34,Default,,0,0,0,,Looks like we can't\Nsettle it with magic.
+Dialogue: 0,0:05:19.38,0:05:20.85,Default,,0,0,0,,Then...
+Dialogue: 0,0:05:29.40,0:05:31.73,Default,,0,0,0,,We'll have to use physical attacks!
+Dialogue: 0,0:05:50.75,0:05:52.34,Default,,0,0,0,,She got behind Punie!
+Dialogue: 0,0:05:52.45,0:05:53.42,Default,,0,0,0,,Punie-chan!
+Dialogue: 0,0:06:04.30,0:06:05.73,Default,,0,0,0,,She did it.
+Dialogue: 0,0:06:27.05,0:06:32.15,Default,,0,0,0,,Punie is good. Every one of\Nher moves can take me down.
+Dialogue: 0,0:06:32.26,0:06:37.29,Default,,0,0,0,,If she gets a good grip, my joints\Nwill be bent in awkward directions!
+Dialogue: 0,0:06:40.03,0:06:43.87,Default,,0,0,0,,Amazing... That lady\Nis fighting toe to toe with Punie.
+Dialogue: 0,0:06:43.97,0:06:46.20,Default,,0,0,0,,Come on, Punie-chan!
+Dialogue: 0,0:06:47.81,0:06:50.74,Default,,0,0,0,,But your perfection\Nis your greatest weakness.
+Dialogue: 0,0:06:50.84,0:06:52.37,Default,,0,0,0,,That's where I'll strike!
+Dialogue: 0,0:06:56.18,0:06:57.12,Default,,0,0,0,,She got her!
+Dialogue: 0,0:06:57.12,0:06:59.14,Default,,0,0,0,,She got her!\NYou fell for it!
+Dialogue: 0,0:06:59.65,0:07:00.64,Default,,0,0,0,,A dummy!
+Dialogue: 0,0:07:09.06,0:07:13.83,Default,,0,0,0,,Those cuffs have the magic-inhibiting\Nmark of the evil god Anisakis.
+Dialogue: 0,0:07:14.10,0:07:18.76,Default,,0,0,0,,Looks like you can't use your magic\Nor your submission holds, Punie.
+Dialogue: 0,0:07:20.97,0:07:22.03,Default,,0,0,0,,Stop!
+Dialogue: 0,0:07:24.81,0:07:27.18,Default,,0,0,0,,Why are you doing\Nsuch a cruel thing?
+Dialogue: 0,0:07:27.28,0:07:29.75,Default,,0,0,0,,It's not right to take\Nthe throne by force!
+Dialogue: 0,0:07:31.82,0:07:33.94,Default,,0,0,0,,This isn't right?
+Dialogue: 0,0:07:34.75,0:07:36.31,Default,,0,0,0,,You've misunderstood!
+Dialogue: 0,0:07:36.42,0:07:39.88,Default,,0,0,0,,The Tanaka family is\Nthe one who usurped the throne!
+Dialogue: 0,0:07:43.46,0:07:48.56,Default,,0,0,0,,My father, King Barbaroque, was\Na wise monarch loved by his people.
+Dialogue: 0,0:07:59.51,0:08:00.64,Default,,0,0,0,,But...
+Dialogue: 0,0:08:01.18,0:08:03.18,Default,,0,0,0,,{\i1}Suspicious empire{\i0}
+Dialogue: 0,0:08:03.18,0:08:06.15,Default,,0,0,0,,{\i1}Rise and revolt!\NOverthrow the traitor!{\i0}
+Dialogue: 0,0:08:25.24,0:08:30.07,Default,,0,0,0,,We were cast out thanks to Punie's\Nmother, Esmeralda, and her dirty plan.
+Dialogue: 0,0:08:35.08,0:08:39.58,Default,,0,0,0,,I should've been the princess\Nof Saint Magical Kingdom!
+Dialogue: 0,0:08:40.89,0:08:43.18,Default,,0,0,0,,What? That can't be!
+Dialogue: 0,0:08:43.89,0:08:46.65,Default,,0,0,0,,Punie-chan, say something!
+Dialogue: 0,0:08:48.90,0:08:52.16,Default,,0,0,0,,Your father was incompetent,\Nso he was overthrown.
+Dialogue: 0,0:08:52.50,0:08:53.37,Default,,0,0,0,,What?
+Dialogue: 0,0:08:53.37,0:08:54.66,Default,,0,0,0,,What?\NPunie-chan!
+Dialogue: 0,0:08:55.03,0:08:57.56,Default,,0,0,0,,As a matter of fact,\Nyou should be grateful.
+Dialogue: 0,0:08:57.67,0:09:00.66,Default,,0,0,0,,Since he was\Nthrown out instead of beheaded.
+Dialogue: 0,0:09:02.74,0:09:08.24,Default,,0,0,0,,The king was incompetent, so he's\Nhaving a hard time getting a job.
+Dialogue: 0,0:09:09.08,0:09:11.98,Default,,0,0,0,,He goes to the Hello Work\Nhiring office daily...
+Dialogue: 0,0:09:12.08,0:09:14.88,Default,,0,0,0,,...and Mother does housework\Nand makes fake flowers.
+Dialogue: 0,0:09:14.99,0:09:19.89,Default,,0,0,0,,We're in such needy circumstances,\Nand our lives are like hell itself.
+Dialogue: 0,0:09:21.39,0:09:24.56,Default,,0,0,0,,Now it's your family's turn to suffer!
+Dialogue: 0,0:09:31.84,0:09:33.24,Default,,0,0,0,,Not good, not good.
+Dialogue: 0,0:09:33.34,0:09:35.33,Default,,0,0,0,,Punie's in big trouble!
+Dialogue: 0,0:09:35.44,0:09:37.38,Default,,0,0,0,,What should I do? What should I do?
+Dialogue: 0,0:09:37.48,0:09:39.64,Default,,0,0,0,,Please calm down, honey.
+Dialogue: 0,0:09:39.74,0:09:41.34,Default,,0,0,0,,Yes, but...
+Dialogue: 0,0:09:42.05,0:09:44.81,Default,,0,0,0,,If she has trouble\Ndefeating such a foe...
+Dialogue: 0,0:09:44.92,0:09:47.85,Default,,0,0,0,,...then she's unworthy\Nof being my successor.
+Dialogue: 0,0:09:58.33,0:09:59.30,Default,,0,0,0,,Die!
+Dialogue: 0,0:10:08.04,0:10:11.30,Default,,0,0,0,,Did you think\Nhandcuffs could restrain me?
+Dialogue: 0,0:10:11.68,0:10:12.70,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:10:12.81,0:10:15.37,Default,,0,0,0,,Princess Capoeira Kick!
+Dialogue: 0,0:10:20.19,0:10:23.78,Default,,0,0,0,,You've misunderstood\Nthe meaning of a legitimate monarch.
+Dialogue: 0,0:10:23.89,0:10:26.62,Default,,0,0,0,,You have to claim\Nthe throne with power!
+Dialogue: 0,0:10:27.39,0:10:30.83,Default,,0,0,0,,Shut your mouth, little girl!\NYou're still handcuffed, you know!
+Dialogue: 0,0:10:31.26,0:10:33.92,Default,,0,0,0,,So you think it's\Nover if I'm handcuffed?
+Dialogue: 0,0:10:34.53,0:10:35.69,Default,,0,0,0,,Silly.
+Dialogue: 0,0:10:36.00,0:10:39.94,Default,,0,0,0,,Such a thing in the 4,000-year\Nhistory of submission holds...
+Dialogue: 0,0:10:59.19,0:11:00.56,Default,,0,0,0,,It's over.
+Dialogue: 0,0:11:00.86,0:11:02.59,Default,,0,0,0,,I assumed I'd win.
+Dialogue: 0,0:11:04.93,0:11:07.90,Default,,0,0,0,,Princess Figure-four Leglock!
+Dialogue: 0,0:11:10.10,0:11:12.63,Default,,0,0,0,,If I can just reverse this move...
+Dialogue: 0,0:11:23.18,0:11:25.24,Default,,0,0,0,,Princess STF!
+Dialogue: 0,0:11:26.79,0:11:29.38,Default,,0,0,0,,Princess Reverse Armbar!
+Dialogue: 0,0:11:30.79,0:11:33.12,Default,,0,0,0,,Princess Prison Break.
+Dialogue: 0,0:11:34.53,0:11:37.02,Default,,0,0,0,,Princess Chicken-wing Facelock!
+Dialogue: 0,0:11:38.16,0:11:40.32,Default,,0,0,0,,Princess Monji Lock!
+Dialogue: 0,0:11:51.54,0:11:55.88,Default,,0,0,0,,She might've been\Nbetter off getting hurt by magic...
+Dialogue: 0,0:11:56.05,0:11:58.18,Default,,0,0,0,,She's such a vicious woman.
+Dialogue: 0,0:11:58.82,0:12:01.18,Default,,0,0,0,,Did I do too much? Oops.
+Dialogue: 0,0:12:01.29,0:12:03.26,Default,,0,0,0,,What do you mean "oops"?
+Dialogue: 0,0:12:04.72,0:12:06.09,Default,,0,0,0,,{\i1}Episode 4:{\i0}
+Dialogue: 0,0:12:06.19,0:12:09.68,Default,,0,0,0,,{\i1}Oh, So Cute! Did You Know the\NChances of Having Twins Are 1/120?{\i0}
+Dialogue: 0,0:12:14.43,0:12:15.17,Default,,0,0,0,,Hey.
+Dialogue: 0,0:12:15.17,0:12:16.40,Default,,0,0,0,,Hey.\NYou there.
+Dialogue: 0,0:12:17.94,0:12:22.27,Default,,0,0,0,,The old lady with the aging skin.\NDo you know this person?
+Dialogue: 0,0:12:22.91,0:12:25.43,Default,,0,0,0,,Me? Are you talking about me?
+Dialogue: 0,0:12:25.54,0:12:28.01,Default,,0,0,0,,Who else would it be?
+Dialogue: 0,0:12:28.11,0:12:31.38,Default,,0,0,0,,There's only one person\Nhere with aging skin...
+Dialogue: 0,0:12:31.48,0:12:34.28,Default,,0,0,0,,...and a lifeless, stiff face, old lady.
+Dialogue: 0,0:12:34.39,0:12:35.61,Default,,0,0,0,,Old lady.
+Dialogue: 0,0:12:37.82,0:12:40.05,Default,,0,0,0,,Oh, that's Punie-chan.
+Dialogue: 0,0:12:40.16,0:12:42.15,Default,,0,0,0,,She's our friend.
+Dialogue: 0,0:12:42.50,0:12:46.33,Default,,0,0,0,,Oh, you old ladies\Nare friends with our sister?
+Dialogue: 0,0:12:47.27,0:12:50.86,Default,,0,0,0,,I'm surprised that\Nthe brute actually has friends!
+Dialogue: 0,0:12:50.97,0:12:54.00,Default,,0,0,0,,Are you two\NPunie-chan's younger sisters?
+Dialogue: 0,0:12:54.27,0:12:56.01,Default,,0,0,0,,Her younger sister, Pyun Tanaka.
+Dialogue: 0,0:12:56.01,0:12:58.31,Default,,0,0,0,,Her younger sister, Pyun Tanaka.\NAnd Potaru Tanaka.
+Dialogue: 0,0:12:58.98,0:13:01.10,Default,,0,0,0,,Remember our names, idiots!
+Dialogue: 0,0:13:02.08,0:13:06.58,Default,,0,0,0,,They're definitely Punie's sisters.\NWhat vicious powers do they have...
+Dialogue: 0,0:13:07.19,0:13:10.18,Default,,0,0,0,,Hurry up and take us to our sister.
+Dialogue: 0,0:13:10.29,0:13:13.55,Default,,0,0,0,,Did you hear us,\Nyou idiot-faced blockhead?
+Dialogue: 0,0:13:13.93,0:13:16.49,Default,,0,0,0,,If I go easy, they'll beat me.
+Dialogue: 0,0:13:16.60,0:13:19.76,Default,,0,0,0,,You brats!\NYou'd better watch what you say!
+Dialogue: 0,0:13:19.86,0:13:22.10,Default,,0,0,0,,Ouch! It hurts!
+Dialogue: 0,0:13:22.20,0:13:23.63,Default,,0,0,0,,That's terrible!
+Dialogue: 0,0:13:23.74,0:13:25.83,Default,,0,0,0,,What are you doing, Anego-san?
+Dialogue: 0,0:13:25.94,0:13:28.13,Default,,0,0,0,,What the hell? They're so weak.
+Dialogue: 0,0:13:28.84,0:13:32.11,Default,,0,0,0,,I'll get revenge on Punie\Nby taking it out on them.
+Dialogue: 0,0:13:34.01,0:13:35.17,Default,,0,0,0,,Big Sister!
+Dialogue: 0,0:13:35.28,0:13:36.51,Default,,0,0,0,,Pyun! Potaru!
+Dialogue: 0,0:13:36.92,0:13:38.47,Default,,0,0,0,,Big Sister!
+Dialogue: 0,0:13:38.78,0:13:40.72,Default,,0,0,0,,Pyun! Potaru!
+Dialogue: 0,0:13:41.62,0:13:45.45,Default,,0,0,0,,They haven't seen each other in\Nso long. Get yourselves pampered.
+Dialogue: 0,0:13:51.93,0:13:55.99,Default,,0,0,0,,Hand over the right of succession\Nto us, you rotten witch!
+Dialogue: 0,0:13:56.10,0:13:57.62,Default,,0,0,0,,You evil witch!
+Dialogue: 0,0:13:57.74,0:14:01.50,Default,,0,0,0,,That's why you came to Earth?\NYou don't know when to quit.
+Dialogue: 0,0:14:01.77,0:14:04.37,Default,,0,0,0,,Payatan and\NHole-digger Ellie were the same.
+Dialogue: 0,0:14:04.48,0:14:09.47,Default,,0,0,0,,Why does everyone from the land\Nof magic want to kill Punie-chan?
+Dialogue: 0,0:14:11.12,0:14:13.78,Default,,0,0,0,,The right of succession aside...
+Dialogue: 0,0:14:16.02,0:14:18.19,Default,,0,0,0,,Don't use sharp objects in the streets!
+Dialogue: 0,0:14:18.19,0:14:19.92,Default,,0,0,0,,Don't use sharp objects in the streets!\NWe're sorry!
+Dialogue: 0,0:14:20.46,0:14:24.42,Default,,0,0,0,,I have to go to school, so stay\Nat the Punie house and behave.
+Dialogue: 0,0:14:24.53,0:14:26.05,Default,,0,0,0,,Okay...
+Dialogue: 0,0:14:31.17,0:14:35.20,Default,,0,0,0,,That's not like you.\NLetting them go after a spanking.
+Dialogue: 0,0:14:35.31,0:14:36.74,Default,,0,0,0,,Oh, really?
+Dialogue: 0,0:14:37.14,0:14:42.20,Default,,0,0,0,,It was too easy. They say even lions\Nare serious when hunting rabbits.
+Dialogue: 0,0:14:43.65,0:14:45.95,Default,,0,0,0,,Of course I'm serious...
+Dialogue: 0,0:14:46.05,0:14:47.45,Default,,0,0,0,,...when I hunt.
+Dialogue: 0,0:14:47.72,0:14:50.09,Default,,0,0,0,,Like I thought. You're vicious, Punie.
+Dialogue: 0,0:14:54.09,0:14:58.03,Default,,0,0,0,,We came for her head,\Nbut we ended up really embarrassed.
+Dialogue: 0,0:14:58.13,0:15:02.00,Default,,0,0,0,,We won't let her get away\Nwith this! That goby witch!
+Dialogue: 0,0:15:09.58,0:15:11.24,Default,,0,0,0,,I'm Payatan!
+Dialogue: 0,0:15:11.34,0:15:13.50,Default,,0,0,0,,Hey, fake mammal!
+Dialogue: 0,0:15:13.88,0:15:16.01,Default,,0,0,0,,Come here for a second.
+Dialogue: 0,0:15:16.72,0:15:18.71,Default,,0,0,0,,What is it, paya?
+Dialogue: 0,0:15:18.95,0:15:21.94,Default,,0,0,0,,Are you giving me\Nsomething good to eat, paya?
+Dialogue: 0,0:15:23.56,0:15:26.96,Default,,0,0,0,,We're the only ones here, Payatan.
+Dialogue: 0,0:15:27.59,0:15:30.93,Default,,0,0,0,,Or should I say\NColonel Paya Livingston?
+Dialogue: 0,0:15:33.97,0:15:36.02,Default,,0,0,0,,What is this about?
+Dialogue: 0,0:15:36.57,0:15:39.97,Default,,0,0,0,,Abandon our sister\Nand become our mascot.
+Dialogue: 0,0:15:40.07,0:15:42.54,Default,,0,0,0,,We'll guarantee you'll succeed in life.
+Dialogue: 0,0:15:42.64,0:15:45.63,Default,,0,0,0,,Oh, jeez. Not that story again...
+Dialogue: 0,0:15:52.88,0:15:57.15,Default,,0,0,0,,Come up with a better story next time.
+Dialogue: 0,0:15:59.52,0:16:00.53,Default,,0,0,0,,See you.
+Dialogue: 0,0:16:00.53,0:16:01.49,Default,,0,0,0,,See you.\NWait!
+Dialogue: 0,0:16:01.86,0:16:05.23,Default,,0,0,0,,You think you can get away\Nby turning your back to us?
+Dialogue: 0,0:16:05.83,0:16:08.03,Default,,0,0,0,,Listen, little girls.
+Dialogue: 0,0:16:08.13,0:16:10.46,Default,,0,0,0,,Punie might be nice to you...
+Dialogue: 0,0:16:11.67,0:16:13.83,Default,,0,0,0,,...but I'm not nice at all.
+Dialogue: 0,0:16:13.94,0:16:16.93,Default,,0,0,0,,A pet with a bad mouth like that.
+Dialogue: 0,0:16:17.04,0:16:18.77,Default,,0,0,0,,I'm disappointed, Potaru.
+Dialogue: 0,0:16:18.88,0:16:22.71,Default,,0,0,0,,You're right, Pyun.\NI thought he'd make a good mascot.
+Dialogue: 0,0:16:23.75,0:16:25.81,Default,,0,0,0,,Let's go find another one.
+Dialogue: 0,0:16:27.62,0:16:29.92,Default,,0,0,0,,Those rings! Don't tell me...
+Dialogue: 0,0:16:32.02,0:16:34.86,Default,,0,0,0,,S-Stop!
+Dialogue: 0,0:16:39.03,0:16:42.16,Default,,0,0,0,,They're foul-mouthed,\Nbut your sisters are cute.
+Dialogue: 0,0:16:42.27,0:16:46.10,Default,,0,0,0,,Right. They're much younger,\Nso I adore them very much.
+Dialogue: 0,0:16:46.20,0:16:48.10,Default,,0,0,0,,I end up pampering them.
+Dialogue: 0,0:16:48.21,0:16:49.23,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:16:52.94,0:16:55.61,Default,,0,0,0,,I heard the sound of a carriage.
+Dialogue: 0,0:16:58.35,0:16:59.37,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:17:03.82,0:17:05.05,Default,,0,0,0,,Payatan!
+Dialogue: 0,0:17:05.16,0:17:08.22,Default,,0,0,0,,P-Punie-sama, be careful...
+Dialogue: 0,0:17:09.06,0:17:10.32,Default,,0,0,0,,Payatan...
+Dialogue: 0,0:17:10.93,0:17:12.95,Default,,0,0,0,,Those girls...
+Dialogue: 0,0:17:13.73,0:17:16.26,Default,,0,0,0,,Those girls have in their hands...
+Dialogue: 0,0:17:25.34,0:17:26.33,Default,,0,0,0,,Payatan!
+Dialogue: 0,0:17:39.56,0:17:41.62,Default,,0,0,0,,Pyun... Potaru...
+Dialogue: 0,0:17:43.16,0:17:45.65,Default,,0,0,0,,I think I'm a little angry now.
+Dialogue: 0,0:17:45.96,0:17:48.23,Default,,0,0,0,,We're already angry.
+Dialogue: 0,0:17:48.33,0:17:51.27,Default,,0,0,0,,You embarrassed us\Nso many times in the past.
+Dialogue: 0,0:17:51.57,0:17:54.47,Default,,0,0,0,,We can't go on\Nwithout getting our revenge!
+Dialogue: 0,0:17:55.17,0:17:58.70,Default,,0,0,0,,That's the royal family's\Nclass-A magic equipment...
+Dialogue: 0,0:17:58.81,0:18:01.44,Default,,0,0,0,,The Ring of the Immoral!
+Dialogue: 0,0:18:01.98,0:18:05.71,Default,,0,0,0,,Lyrical Tokarev, destroy everything!
+Dialogue: 0,0:18:15.13,0:18:16.82,Default,,0,0,0,,What happened?
+Dialogue: 0,0:18:20.57,0:18:23.54,Default,,0,0,0,,I am Zephel Yetzler.
+Dialogue: 0,0:18:23.77,0:18:26.43,Default,,0,0,0,,A wandering soul with no master.
+Dialogue: 0,0:18:26.97,0:18:28.60,Default,,0,0,0,,He's trouble, paya...
+Dialogue: 0,0:18:28.71,0:18:32.94,Default,,0,0,0,,He's one of the oldest gods\Nfrom before mythical times...
+Dialogue: 0,0:18:33.34,0:18:35.94,Default,,0,0,0,,He's unbelievably strong, paya...
+Dialogue: 0,0:18:52.30,0:18:53.46,Default,,0,0,0,,What now?
+Dialogue: 0,0:18:53.56,0:18:56.69,Default,,0,0,0,,Magic is ineffective\Nagainst a god, idiot.
+Dialogue: 0,0:18:56.80,0:19:02.30,Default,,0,0,0,,Since he's that big, you can't use\Nyour submission holds, loser.
+Dialogue: 0,0:19:02.64,0:19:06.48,Default,,0,0,0,,Give us the right of succession\Nand we'll spare you, filthy punk.
+Dialogue: 0,0:19:06.58,0:19:10.71,Default,,0,0,0,,On your knees.\NCry and beg for your life, you bitch.
+Dialogue: 0,0:19:11.62,0:19:13.52,Default,,0,0,0,,That's all you have to say?
+Dialogue: 0,0:19:13.62,0:19:14.71,Default,,0,0,0,,What?
+Dialogue: 0,0:19:15.22,0:19:18.09,Default,,0,0,0,,Say everything you're thinking.
+Dialogue: 0,0:19:18.19,0:19:20.89,Default,,0,0,0,,Because they'll be your last words.
+Dialogue: 0,0:19:22.16,0:19:26.15,Default,,0,0,0,,Pyun, don't hesitate.\NThis is one of her usual dirty tricks.
+Dialogue: 0,0:19:26.26,0:19:28.70,Default,,0,0,0,,She can't possibly win against a god.
+Dialogue: 0,0:19:28.80,0:19:30.39,Default,,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:19:31.20,0:19:34.37,Default,,0,0,0,,Zephel, get rid of that insidious witch!
+Dialogue: 0,0:19:49.76,0:19:51.35,Default,,0,0,0,,I told you before.
+Dialogue: 0,0:19:51.46,0:19:54.32,Default,,0,0,0,,A champion uses submission holds.
+Dialogue: 0,0:19:57.40,0:19:58.83,Default,,0,0,0,,He did it!
+Dialogue: 0,0:20:00.87,0:20:04.20,Default,,0,0,0,,There's no submission\Nhold that won't work!
+Dialogue: 0,0:20:06.44,0:20:09.41,Default,,0,0,0,,Princess Figure-four Fingerlock!
+Dialogue: 0,0:20:15.41,0:20:16.47,Default,,0,0,0,,Give up?
+Dialogue: 0,0:20:16.58,0:20:18.95,Default,,0,0,0,,No! No!
+Dialogue: 0,0:20:19.05,0:20:20.54,Default,,0,0,0,,Come on!
+Dialogue: 0,0:20:29.63,0:20:32.19,Default,,0,0,0,,You're that witch from back then!
+Dialogue: 0,0:20:32.30,0:20:35.06,Default,,0,0,0,,Long time no see, Zephel Yetzler.
+Dialogue: 0,0:20:38.10,0:20:40.30,Default,,0,0,0,,Spare me!
+Dialogue: 0,0:20:42.94,0:20:48.07,Default,,0,0,0,,Punie-chan,\Nwhat did you do to that god?
+Dialogue: 0,0:20:49.31,0:20:50.28,Default,,0,0,0,,Now...
+Dialogue: 0,0:20:53.08,0:20:55.18,Default,,0,0,0,,Pyun, Potaru...
+Dialogue: 0,0:20:55.29,0:21:00.99,Default,,0,0,0,,If you do this again, I'll keep applying\Nsubmission holds again and again...
+Dialogue: 0,0:21:01.53,0:21:04.15,Default,,0,0,0,,...till your flesh and bones turn to dust.
+Dialogue: 0,0:21:04.26,0:21:05.82,Default,,0,0,0,,We're sorry!
+Dialogue: 0,0:21:06.16,0:21:09.56,Default,,0,0,0,,As long as you understand.\NI'll make you some pancakes.
+Dialogue: 0,0:21:09.64,0:21:12.54,Default,,0,0,0,,Yay! Yay! Yay!
+Dialogue: 0,0:21:12.84,0:21:15.36,Default,,0,0,0,,I really like your pancakes!
+Dialogue: 0,0:21:15.47,0:21:16.63,Default,,0,0,0,,And honey?
+Dialogue: 0,0:21:16.74,0:21:19.23,Default,,0,0,0,,Of course. I'll pour plenty of it.
+Dialogue: 0,0:21:19.34,0:21:20.24,Default,,0,0,0,,Yay!
+Dialogue: 0,0:21:20.34,0:21:23.01,Default,,0,0,0,,Fear the land of magic...
+Dialogue: 0,0:21:29.69,0:21:33.65,Default,,0,0,0,,You're getting closer to becoming\Na weak character like me.
+Dialogue: 0,0:21:53.41,0:22:01.25,Default,,0,0,0,,{\i1}If you bend the knees upside down...{\i0}
+Dialogue: 0,0:22:01.52,0:22:08.86,Default,,0,0,0,,{\i1}...even your belief about\Ncrushing a rock becomes distorted.{\i0}
+Dialogue: 0,0:22:09.53,0:22:17.02,Default,,0,0,0,,{\i1}Good, justice, and even the truth\Nis gone when you feel the pain.{\i0}
+Dialogue: 0,0:22:17.14,0:22:25.54,Default,,0,0,0,,{\i1}Even those with fortitude have joints.{\i0}
+Dialogue: 0,0:22:25.68,0:22:33.55,Default,,0,0,0,,{\i1}Take a look. This is\Nthe submission of a monarch.{\i0}
+Dialogue: 0,0:22:33.75,0:22:46.22,Default,,0,0,0,,{\i1}As long as you\Nhave fortitude, you will prosper.{\i0}
+Dialogue: 0,0:23:06.68,0:23:10.02,Default,,0,0,0,,Next, "Can You Decide\NSomeone's Value with Test Scores?"
+Dialogue: 0,0:23:10.12,0:23:12.99,Default,,0,0,0,,"I'm Probably a Zero Anyway.\NThat's Right."
+Dialogue: 0,0:23:13.09,0:23:16.18,Default,,0,0,0,,"When I Saw You Sweep Back\NYour Bangs Under the Apple Tree...
+Dialogue: 0,0:23:16.29,0:23:21.13,Default,,0,0,0,,...with the Flower-comb in Your Hair,\NI Thought You Were a Flower Too."
