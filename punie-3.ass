@@ -5,13 +5,10 @@ PlayResX: 720
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 337
+Scroll Position: 323
 Active Line: 338
 Video Zoom Percent: 1
-Video File: ../raws/ep3.mkv
 YCbCr Matrix: TV.601
-Video Aspect Ratio: c1.37405
-Video Position: 36027
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -42,14 +39,14 @@ Dialogue: 0,0:01:43.30,0:01:46.20,punie dialogue,,0,0,0,,Shall I show you\Nhow m
 Dialogue: 0,0:01:46.31,0:01:50.44,punie dialogue,,0,0,0,,What? You'll show it to\Nus here, paya? What a waste, paya.
 Dialogue: 0,0:01:51.01,0:01:52.14,punie dialogue,,0,0,0,,Studied?
 Dialogue: 0,0:01:52.24,0:01:53.97,punie dialogue,,0,0,0,,Here we go!
-Dialogue: 0,0:01:55.78,0:01:56.42,punie dialogue,,0,0,0,,2x2. 2x3. 2x4.
-Dialogue: 0,0:01:56.42,0:01:59.18,punie dialogue,,0,0,0,,2x2. 2x3. 2x4.\N4. 6. 8.
-Dialogue: 0,0:01:59.28,0:01:59.89,punie dialogue,,0,0,0,,2x5. 2x6. 2x7. 2x8.
-Dialogue: 0,0:01:59.89,0:02:03.62,punie dialogue,,0,0,0,,2x5. 2x6. 2x7. 2x8.\N10. 12. 14. 16.
-Dialogue: 0,0:02:03.72,0:02:04.36,punie dialogue,,0,0,0,,2x9.
-Dialogue: 0,0:02:04.36,0:02:05.69,punie dialogue,,0,0,0,,2x9.\N1...
-Dialogue: 0,0:02:09.10,0:02:09.90,punie dialogue,,0,0,0,,18!
-Dialogue: 0,0:02:09.90,0:02:11.12,punie dialogue,,0,0,0,,18!\NYou're amazing!
+Dialogue: 0,0:01:55.78,0:01:59.18,punie dialogue,,0,0,0,,2x2. 2x3. 2x4.
+Dialogue: 0,0:01:56.42,0:01:59.18,punie dialogue,,0,0,0,,4. 6. 8.
+Dialogue: 0,0:01:59.28,0:02:03.62,punie dialogue,,0,0,0,,2x5. 2x6. 2x7. 2x8.
+Dialogue: 0,0:01:59.89,0:02:03.62,punie dialogue,,0,0,0,,10. 12. 14. 16.
+Dialogue: 0,0:02:03.72,0:02:05.69,punie dialogue,,0,0,0,,2x9.
+Dialogue: 0,0:02:04.36,0:02:05.69,punie dialogue,,0,0,0,,1...
+Dialogue: 0,0:02:09.10,0:02:11.12,punie dialogue,,0,0,0,,18!
+Dialogue: 0,0:02:09.90,0:02:11.12,punie dialogue,,0,0,0,,You're amazing!
 Dialogue: 0,0:02:11.23,0:02:13.46,punie dialogue,,0,0,0,,You mastered this section, paya!
 Dialogue: 0,0:02:13.57,0:02:16.43,punie dialogue,,0,0,0,,That's like elementary-school level.
 Dialogue: 0,0:02:17.17,0:02:19.60,punie dialogue,,0,0,0,,They can't go up to sixth level...
@@ -83,8 +80,8 @@ Dialogue: 0,0:03:53.60,0:03:54.90,punie dialogue,,0,0,0,,Now, begin.
 Dialogue: 0,0:04:05.31,0:04:06.30,punie dialogue,,0,0,0,,Anego.
 Dialogue: 0,0:04:07.58,0:04:08.98,punie dialogue,,0,0,0,,What should we do?
 Dialogue: 0,0:04:09.08,0:04:11.81,punie dialogue,,0,0,0,,At this rate, we'll all repeat the grade.
-Dialogue: 0,0:04:11.92,0:04:12.82,punie dialogue,,0,0,0,,Anego...
-Dialogue: 0,0:04:12.82,0:04:14.22,punie dialogue,,0,0,0,,Anego...\NI know!
+Dialogue: 0,0:04:11.92,0:04:14.22,punie dialogue,,0,0,0,,Anego...
+Dialogue: 0,0:04:12.82,0:04:14.22,punie dialogue,,0,0,0,,I know!
 Dialogue: 0,0:04:14.32,0:04:17.08,punie dialogue,,0,0,0,,Don't take your eyes off\NGesomi no matter what.
 Dialogue: 0,0:04:17.19,0:04:20.22,punie dialogue,,0,0,0,,We can catch her off guard,\Neven for an instant.
 Dialogue: 0,0:04:20.33,0:04:21.66,punie dialogue,,0,0,0,,Right.
@@ -98,8 +95,8 @@ Dialogue: 0,0:05:07.24,0:05:12.11,punie dialogue,,0,0,0,,Next time, try to cheat
 Dialogue: 0,0:05:12.81,0:05:14.07,punie dialogue,,0,0,0,,That is...
 Dialogue: 0,0:05:15.18,0:05:18.51,punie dialogue,,0,0,0,,...if you have a brain\Ninside that head of yours.
 Dialogue: 0,0:05:19.32,0:05:21.31,punie dialogue,,0,0,0,,We're not oranges!
-Dialogue: 0,0:05:22.42,0:05:23.32,punie dialogue,,0,0,0,,We're human beings!
-Dialogue: 0,0:05:23.32,0:05:25.29,punie dialogue,,0,0,0,,We're human beings!\NThat's right!
+Dialogue: 0,0:05:22.42,0:05:25.29,punie dialogue,,0,0,0,,We're human beings!
+Dialogue: 0,0:05:23.32,0:05:25.29,punie dialogue,,0,0,0,,That's right!
 Dialogue: 0,0:05:26.99,0:05:30.99,punie dialogue,,0,0,0,,Oh my. You're rotten, but you\Ncan still say nasty things.
 Dialogue: 0,0:05:31.50,0:05:32.96,punie dialogue,,0,0,0,,What'd you say?
 Dialogue: 0,0:05:33.07,0:05:37.06,punie dialogue,,0,0,0,,Jeez, Anego-san\Ngets excited very easily.
@@ -169,8 +166,8 @@ Dialogue: 0,0:10:17.22,0:10:19.88,punie dialogue,,0,0,0,,You okay? You're not th
 Dialogue: 0,0:10:21.25,0:10:22.95,punie dialogue,,0,0,0,,Hang in there!
 Dialogue: 0,0:10:23.69,0:10:27.89,punie dialogue,,0,0,0,,Why is it so dark?\NIs this the new Tanna Tunnel?
 Dialogue: 0,0:10:29.00,0:10:32.45,punie dialogue,,0,0,0,,The prototype is passing\NGifu-Hashima Station.
-Dialogue: 0,0:10:33.00,0:10:34.03,punie dialogue,,0,0,0,,Where do I get off?
-Dialogue: 0,0:10:34.03,0:10:35.93,punie dialogue,,0,0,0,,Where do I get off?\NMedic! Medic!
+Dialogue: 0,0:10:33.00,0:10:35.93,punie dialogue,,0,0,0,,Where do I get off?
+Dialogue: 0,0:10:34.03,0:10:35.93,punie dialogue,,0,0,0,,Medic! Medic!
 Dialogue: 0,0:10:40.37,0:10:43.47,punie dialogue,,0,0,0,,This looks bad.\NLet's try to get her out of here.
 Dialogue: 0,0:10:43.58,0:10:44.63,punie dialogue,,0,0,0,,R-Right.
 Dialogue: 0,0:10:45.08,0:10:50.14,punie dialogue,,0,0,0,,There's a bullet train stationed every\N30 minutes at Annakaharuna Station...
@@ -227,8 +224,8 @@ Dialogue: 0,0:14:32.67,0:14:35.23,punie dialogue,,0,0,0,,You didn't tell anyone,
 Dialogue: 0,0:14:35.34,0:14:36.83,punie dialogue,,0,0,0,,Of course not.
 Dialogue: 0,0:14:36.94,0:14:41.74,punie dialogue,,0,0,0,,You have strong feelings for him.\NWhy would I go tell others about it?
 Dialogue: 0,0:14:42.18,0:14:43.58,punie dialogue,,0,0,0,,Do you know?
-Dialogue: 0,0:14:43.68,0:14:44.45,punie dialogue,,0,0,0,,What?
-Dialogue: 0,0:14:44.45,0:14:46.94,punie dialogue,,0,0,0,,What?\NAbout Anego-san and Yamada-kun...
+Dialogue: 0,0:14:43.68,0:14:46.94,punie dialogue,,0,0,0,,What?
+Dialogue: 0,0:14:44.45,0:14:46.94,punie dialogue,,0,0,0,,About Anego-san and Yamada-kun...
 Dialogue: 0,0:14:50.29,0:14:52.09,punie dialogue,,0,0,0,,Can't help that it's out.
 Dialogue: 0,0:14:52.19,0:14:54.96,punie dialogue,,0,0,0,,That's right. I'm in love.
 Dialogue: 0,0:14:55.36,0:14:56.79,punie dialogue,,0,0,0,,That's wonderful!
@@ -275,16 +272,16 @@ Dialogue: 0,0:17:18.77,0:17:20.20,punie dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:17:21.61,0:17:23.37,punie dialogue,,0,0,0,,I can hear Punie's voice!
 Dialogue: 0,0:17:23.48,0:17:25.88,punie dialogue,,0,0,0,,Huh? Something's in my ear.
 Dialogue: 0,0:17:25.98,0:17:28.74,punie dialogue,,0,0,0,,We'll advise you\Nfrom behind the scenes.
-Dialogue: 0,0:17:28.85,0:17:30.32,punie dialogue,,0,0,0,,Good luck, Anego-san!
-Dialogue: 0,0:17:30.32,0:17:32.15,punie dialogue,,0,0,0,,Good luck, Anego-san!\NI don't need your help!
+Dialogue: 0,0:17:28.85,0:17:32.15,punie dialogue,,0,0,0,,Good luck, Anego-san!
+Dialogue: 0,0:17:30.32,0:17:32.15,punie dialogue,,0,0,0,,I don't need your help!
 Dialogue: 0,0:17:32.25,0:17:36.24,punie dialogue,,0,0,0,,Oh? Who do you think\Nmade this date possible?
 Dialogue: 0,0:17:36.66,0:17:38.42,punie dialogue,,0,0,0,,Hey, here he comes.
 Dialogue: 0,0:17:38.52,0:17:40.01,punie dialogue,,0,0,0,,Left! Left!
 Dialogue: 0,0:17:40.96,0:17:42.86,punie dialogue,,0,0,0,,Sorry about that!
 Dialogue: 0,0:17:45.40,0:17:47.16,punie dialogue,,0,0,0,,Sorry I'm late. Wait long?
 Dialogue: 0,0:17:47.27,0:17:49.29,punie dialogue,,0,0,0,,No, not at all.
-Dialogue: 0,0:17:49.40,0:17:50.97,punie dialogue,,0,0,0,,She said she didn't wait.
-Dialogue: 0,0:17:50.97,0:17:54.03,punie dialogue,,0,0,0,,She said she didn't wait.\NShe came an hour early too.
+Dialogue: 0,0:17:49.40,0:17:54.03,punie dialogue,,0,0,0,,She said she didn't wait.
+Dialogue: 0,0:17:50.97,0:17:54.03,punie dialogue,,0,0,0,,She came an hour early too.
 Dialogue: 0,0:17:54.54,0:17:57.28,punie dialogue,,0,0,0,,I'll kill them...\NI'll kill them later for sure...
 Dialogue: 0,0:17:57.28,0:17:59.54,punie dialogue,,0,0,0,,Mouse Land
 Dialogue: 0,0:18:02.78,0:18:04.91,punie dialogue,,0,0,0,,What should we ride first?
@@ -319,8 +316,8 @@ Dialogue: 0,0:20:08.87,0:20:14.11,punie dialogue,,0,0,0,,I prepared the greatest
 Dialogue: 0,0:20:14.21,0:20:17.01,punie dialogue,,0,0,0,,If it's man-made, it's not scary at all...
 Dialogue: 0,0:20:17.12,0:20:20.45,punie dialogue,,0,0,0,,...but if it's Punie,\Nwho knows what could happen?
 Dialogue: 0,0:20:20.55,0:20:23.02,punie dialogue,,0,0,0,,This is bad. I want to go home...
-Dialogue: 0,0:20:26.32,0:20:27.43,punie dialogue,,0,0,0,,Are you trembling?
-Dialogue: 0,0:20:27.43,0:20:29.19,punie dialogue,,0,0,0,,Are you trembling?\NN-No way!
+Dialogue: 0,0:20:26.32,0:20:29.19,punie dialogue,,0,0,0,,Are you trembling?
+Dialogue: 0,0:20:27.43,0:20:29.19,punie dialogue,,0,0,0,,N-No way!
 Dialogue: 0,0:20:29.29,0:20:32.23,punie dialogue,,0,0,0,,Don't worry. I'm here by your side.
 Dialogue: 0,0:20:32.33,0:20:33.59,punie dialogue,,0,0,0,,Let's go!
 Dialogue: 0,0:20:34.00,0:20:37.09,punie dialogue,,0,0,0,,I-I-I'm holding hands with him!
@@ -358,8 +355,8 @@ Dialogue: 0,0:24:01.07,0:24:02.87,punie dialogue,,0,0,0,,My first love...
 Dialogue: 0,0:24:08.41,0:24:12.35,punie dialogue,,0,0,0,,And what happened to\NAnego-san afterwards...
 Dialogue: 0,0:24:26.43,0:24:28.36,punie dialogue,,0,0,0,,What are you looking at?
 Dialogue: 0,0:24:36.64,0:24:39.47,punie dialogue,,0,0,0,,She's gotten\Neven worse than before...
-Dialogue: 0,0:24:40.21,0:24:41.75,punie dialogue,,0,0,0,,You'll be unattractive.
-Dialogue: 0,0:24:41.75,0:24:43.91,punie dialogue,,0,0,0,,You'll be unattractive.\NShut up!
+Dialogue: 0,0:24:40.21,0:24:43.91,punie dialogue,,0,0,0,,You'll be unattractive.
+Dialogue: 0,0:24:41.75,0:24:43.91,punie dialogue,,0,0,0,,Shut up!
 Dialogue: 0,0:25:02.60,0:25:10.44,punie songs,,0,0,0,,If you bend the knees upside down...
 Dialogue: 0,0:25:10.71,0:25:18.05,punie songs,,0,0,0,,...even your belief about\Ncrushing a rock becomes distorted.
 Dialogue: 0,0:25:18.72,0:25:26.21,punie songs,,0,0,0,,Good, justice, and even the truth\Nis gone when you feel the pain.

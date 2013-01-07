@@ -5,13 +5,10 @@ PlayResX: 712
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 309
-Active Line: 308
+Scroll Position: 288
+Active Line: 307
 Video Zoom Percent: 1
-Video File: ../raws/ep4.mkv
 YCbCr Matrix: TV.601
-Video Aspect Ratio: c1.35878
-Video Position: 31443
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -45,8 +42,8 @@ Dialogue: 0,0:02:17.27,0:02:19.30,punie dialogue,,0,0,0,,No problem!
 Dialogue: 0,0:02:20.01,0:02:22.03,punie dialogue,,0,0,0,,Go and do your best!
 Dialogue: 0,0:02:23.81,0:02:29.82,punie dialogue,,0,0,0,,{\i1}Episode 7: Don't Think Participation\NIs Important. That's Too Lenient.{\i0}
 Dialogue: 0,0:02:29.82,0:02:33.79,punie dialogue,,0,0,0,,{\i1}Sports Festival{\i0}
-Dialogue: 0,0:02:33.79,0:02:34.32,punie dialogue,,0,0,0,,White Team Red Team
-Dialogue: 0,0:02:34.32,0:02:36.84,punie dialogue,,0,0,0,,White Team Red Team\NThe girls' spoon race will start soon.
+Dialogue: 0,0:02:33.79,0:02:36.84,punie dialogue,,0,0,0,,White Team Red Team
+Dialogue: 0,0:02:34.32,0:02:36.84,punie dialogue,,0,0,0,,The girls' spoon race will start soon.
 Dialogue: 0,0:02:36.96,0:02:39.55,punie dialogue,,0,0,0,,Participants, head to the gate now.
 Dialogue: 0,0:02:39.66,0:02:43.65,punie dialogue,,0,0,0,,What's the matter, Anego-san?\NHurry up and go to the gate.
 Dialogue: 0,0:02:43.76,0:02:46.20,punie dialogue,,0,0,0,,Look at the executive committee.
@@ -66,8 +63,8 @@ Dialogue: 0,0:03:26.10,0:03:28.94,punie dialogue,,0,0,0,,These are eggs prepared
 Dialogue: 0,0:03:35.95,0:03:38.54,punie dialogue,,0,0,0,,It's possible. With her, anything is.
 Dialogue: 0,0:03:39.12,0:03:40.24,punie dialogue,,0,0,0,,Excuse me.
 Dialogue: 0,0:03:40.72,0:03:43.71,punie dialogue,,0,0,0,,Freight train is connected.\NReady to go!
-Dialogue: 0,0:03:43.82,0:03:44.66,punie dialogue,,0,0,0,,Hey!
-Dialogue: 0,0:03:44.66,0:03:47.02,punie dialogue,,0,0,0,,Hey!\NChoo-choo! Choo-choo!
+Dialogue: 0,0:03:43.82,0:03:47.02,punie dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:03:44.66,0:03:47.02,punie dialogue,,0,0,0,,Choo-choo! Choo-choo!
 Dialogue: 0,0:03:47.29,0:03:49.02,punie dialogue,,0,0,0,,Don't, Tetsuko! That egg...
 Dialogue: 0,0:03:49.16,0:03:52.50,punie dialogue,,0,0,0,,The red team's\NTetsuko Koku is in first place!
 Dialogue: 0,0:03:53.17,0:03:54.33,punie dialogue,,0,0,0,,I did it!
@@ -91,8 +88,8 @@ Dialogue: 0,0:05:11.34,0:05:13.14,punie dialogue,,0,0,0,,Wow! This is amazing!
 Dialogue: 0,0:05:13.25,0:05:15.24,punie dialogue,,0,0,0,,They look good...
 Dialogue: 0,0:05:18.38,0:05:20.32,punie dialogue,,0,0,0,,Aren't you going to eat?
 Dialogue: 0,0:05:20.42,0:05:22.25,punie dialogue,,0,0,0,,Looks like they're not poisoned.
-Dialogue: 0,0:05:22.36,0:05:23.52,punie dialogue,,0,0,0,,I'm a taste tester?
-Dialogue: 0,0:05:23.52,0:05:25.51,punie dialogue,,0,0,0,,I'm a taste tester?\NHey, Big Sister!
+Dialogue: 0,0:05:22.36,0:05:25.51,punie dialogue,,0,0,0,,I'm a taste tester?
+Dialogue: 0,0:05:23.52,0:05:25.51,punie dialogue,,0,0,0,,Hey, Big Sister!
 Dialogue: 0,0:05:25.62,0:05:28.25,punie dialogue,,0,0,0,,We want to be\Nin the sports festival too!
 Dialogue: 0,0:05:28.36,0:05:30.23,punie dialogue,,0,0,0,,Sure, that's fine.
 Dialogue: 0,0:05:30.33,0:05:33.53,punie dialogue,,0,0,0,,You're sure?\NIt's dangerous for small kids.
@@ -177,8 +174,8 @@ Dialogue: 0,0:10:13.71,0:10:17.20,punie dialogue,,0,0,0,,It is only you and myse
 Dialogue: 0,0:10:20.32,0:10:24.19,punie dialogue,,0,0,0,,There's no escape for you now.\NYou used such a dirty trick...
 Dialogue: 0,0:10:24.89,0:10:25.95,punie dialogue,,0,0,0,,Get ready.
 Dialogue: 0,0:10:26.02,0:10:26.99,punie dialogue,,0,0,0,,Paya!
-Dialogue: 0,0:10:32.76,0:10:33.67,punie dialogue,,0,0,0,,Payatan!
-Dialogue: 0,0:10:33.67,0:10:34.93,punie dialogue,,0,0,0,,Payatan!\NPlease flee!
+Dialogue: 0,0:10:32.76,0:10:34.93,punie dialogue,,0,0,0,,Payatan!
+Dialogue: 0,0:10:33.67,0:10:34.93,punie dialogue,,0,0,0,,Please flee!
 Dialogue: 0,0:10:35.03,0:10:37.09,punie dialogue,,0,0,0,,Let me handle this!
 Dialogue: 0,0:10:37.20,0:10:39.86,punie dialogue,,0,0,0,,I'll see you again\Nat the river of the dead!
 Dialogue: 0,0:10:40.27,0:10:42.87,punie dialogue,,0,0,0,,Payatan! Payatan!
@@ -212,8 +209,8 @@ Dialogue: 0,0:13:38.32,0:13:41.29,punie dialogue,,0,0,0,,{\i1}Episode 8:\NWe Can
 Dialogue: 0,0:13:41.39,0:13:44.29,punie dialogue,,0,0,0,,{\i1}It's Kind of Scary\NBecoming an Adult.{\i0}
 Dialogue: 0,0:13:44.99,0:13:47.58,punie dialogue,,0,0,0,,Good morning,\NAnego-san, Tetsuko-chan!
 Dialogue: 0,0:13:47.69,0:13:48.62,punie dialogue,,0,0,0,,Paya!
-Dialogue: 0,0:13:48.73,0:13:49.46,punie dialogue,,0,0,0,,Yo.
-Dialogue: 0,0:13:49.46,0:13:51.12,punie dialogue,,0,0,0,,Yo.\NMorning, Punie-chan.
+Dialogue: 0,0:13:48.73,0:13:51.12,punie dialogue,,0,0,0,,Yo.
+Dialogue: 0,0:13:49.46,0:13:51.12,punie dialogue,,0,0,0,,Morning, Punie-chan.
 Dialogue: 0,0:13:51.23,0:13:53.32,punie dialogue,,0,0,0,,It's another lovely day.
 Dialogue: 0,0:13:57.24,0:13:59.60,punie dialogue,,0,0,0,,Huh? What's going on?
 Dialogue: 0,0:14:09.08,0:14:10.07,punie dialogue,,0,0,0,,Gorgeous.
@@ -241,8 +238,8 @@ Dialogue: 0,0:15:14.11,0:15:15.60,punie dialogue,,0,0,0,,She knows.
 Dialogue: 0,0:15:15.71,0:15:19.48,punie dialogue,,0,0,0,,The reason why\Nwe couldn't beat this delinquent...
 Dialogue: 0,0:15:20.05,0:15:21.99,punie dialogue,,0,0,0,,...is because we were little!
 Dialogue: 0,0:15:22.66,0:15:25.45,punie dialogue,,0,0,0,,Princess Gemini Monkey Flip!
-Dialogue: 0,0:15:27.63,0:15:28.33,punie dialogue,,0,0,0,,Punie-chan!
-Dialogue: 0,0:15:28.33,0:15:29.19,punie dialogue,,0,0,0,,Punie-chan!\NPunie!
+Dialogue: 0,0:15:27.63,0:15:29.19,punie dialogue,,0,0,0,,Punie-chan!
+Dialogue: 0,0:15:28.33,0:15:29.19,punie dialogue,,0,0,0,,Punie!
 Dialogue: 0,0:15:29.30,0:15:31.42,punie dialogue,,0,0,0,,Gemini Knee Drop!
 Dialogue: 0,0:15:33.56,0:15:35.40,punie dialogue,,0,0,0,,Gemini Drop Kick!
 Dialogue: 0,0:15:35.83,0:15:38.27,punie dialogue,,0,0,0,,Gemini Pile Driver!
@@ -281,8 +278,8 @@ Dialogue: 0,0:17:55.51,0:17:57.41,punie dialogue,,0,0,0,,It doesn't matter!
 Dialogue: 0,0:18:01.95,0:18:05.14,punie dialogue,,0,0,0,,Only one of us\Nwill profit from this, Potaru.
 Dialogue: 0,0:18:05.58,0:18:09.52,punie dialogue,,0,0,0,,You can kill me and Pyun\Nat the same time now, Potaru.
 Dialogue: 0,0:18:12.39,0:18:13.88,punie dialogue,,0,0,0,,What's wrong, Pyun?
-Dialogue: 0,0:18:13.99,0:18:14.89,punie dialogue,,0,0,0,,Nothing...
-Dialogue: 0,0:18:14.89,0:18:16.42,punie dialogue,,0,0,0,,Nothing...\NShe did it.
+Dialogue: 0,0:18:13.99,0:18:16.42,punie dialogue,,0,0,0,,Nothing...
+Dialogue: 0,0:18:14.89,0:18:16.42,punie dialogue,,0,0,0,,She did it.
 Dialogue: 0,0:18:16.53,0:18:19.16,punie dialogue,,0,0,0,,She's a scary individual, as usual.
 Dialogue: 0,0:18:19.26,0:18:20.32,punie dialogue,,0,0,0,,How so?
 Dialogue: 0,0:18:20.43,0:18:22.59,punie dialogue,,0,0,0,,The twin attacks...

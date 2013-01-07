@@ -5,13 +5,10 @@ PlayResX: 712
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 274
-Active Line: 275
+Scroll Position: 0
+Active Line: 0
 Video Zoom Percent: 1
-Video File: ../raws/ep2.mkv
 YCbCr Matrix: TV.601
-Video Aspect Ratio: c1.35878
-Video Position: 31491
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -40,8 +37,8 @@ Dialogue: 0,0:01:27.25,0:01:38.29,punie songs,,0,0,0,,There's only one path that
 Dialogue: 0,0:01:42.10,0:01:44.07,punie dialogue,,0,0,0,,{\i1}Railroad Journal{\i0}
 Dialogue: 0,0:01:45.30,0:01:47.64,punie dialogue,,0,0,0,,Good morning, Tetsuko-chan!
 Dialogue: 0,0:01:50.74,0:01:52.14,punie dialogue,,0,0,0,,Morning, Punie-chan.
-Dialogue: 0,0:01:52.24,0:01:53.81,punie dialogue,,0,0,0,,We'll be late if we don't hurry.
-Dialogue: 0,0:01:53.81,0:01:55.97,punie dialogue,,0,0,0,,We'll be late if we don't hurry.\NYou're right.
+Dialogue: 0,0:01:52.24,0:01:55.97,punie dialogue,,0,0,0,,We'll be late if we don't hurry.
+Dialogue: 0,0:01:53.81,0:01:55.97,punie dialogue,,0,0,0,,You're right.
 Dialogue: 0,0:01:56.28,0:02:00.01,punie dialogue,,0,0,0,,Dr. Yellow's HO is a limited edition.
 Dialogue: 0,0:02:00.82,0:02:02.62,punie dialogue,,0,0,0,,{\i1}Handmade Noodles{\i0}
 Dialogue: 0,0:02:08.83,0:02:09.95,punie dialogue,,0,0,0,,What's wrong?
@@ -69,9 +66,8 @@ Dialogue: 0,0:03:34.18,0:03:37.48,punie dialogue,,0,0,0,,...our fast train leave
 Dialogue: 0,0:03:39.69,0:03:42.98,punie dialogue,,0,0,0,,With the mountain\Nof Atago within sight...
 Dialogue: 0,0:03:44.92,0:03:49.22,punie dialogue,,0,0,0,,...you embark on a journey\Nwith the moon as your friend. There!
 Dialogue: 0,0:04:06.14,0:04:07.84,punie dialogue,,0,0,0,,This huge pitfall...
-Dialogue: 0,0:04:10.35,0:04:11.28,punie dialogue,,0,0,0,,Could it be...
-Dialogue: 0,0:04:11.28,0:04:12.28,punie dialogue,,0,0,0,,Could it be...\NYou avoided it nicely, Punie.
-Dialogue: 0,0:04:12.28,0:04:13.98,punie dialogue,,0,0,0,,You avoided it nicely, Punie.
+Dialogue: 0,0:04:10.35,0:04:12.28,punie dialogue,,0,0,0,,Could it be...
+Dialogue: 0,0:04:11.28,0:04:13.98,punie dialogue,,0,0,0,,You avoided it nicely, Punie.
 Dialogue: 0,0:04:14.62,0:04:15.71,punie dialogue,,0,0,0,,You!
 Dialogue: 0,0:04:15.82,0:04:17.88,punie dialogue,,0,0,0,,But your luck's run out.
 Dialogue: 0,0:04:18.29,0:04:20.49,punie dialogue,,0,0,0,,I'm here to take your life!
@@ -99,8 +95,8 @@ Dialogue: 0,0:06:40.03,0:06:43.87,punie dialogue,,0,0,0,,Amazing... That lady\Ni
 Dialogue: 0,0:06:43.97,0:06:46.20,punie dialogue,,0,0,0,,Come on, Punie-chan!
 Dialogue: 0,0:06:47.81,0:06:50.74,punie dialogue,,0,0,0,,But your perfection\Nis your greatest weakness.
 Dialogue: 0,0:06:50.84,0:06:52.37,punie dialogue,,0,0,0,,That's where I'll strike!
-Dialogue: 0,0:06:56.18,0:06:57.12,punie dialogue,,0,0,0,,She got her!
-Dialogue: 0,0:06:57.12,0:06:59.14,punie dialogue,,0,0,0,,She got her!\NYou fell for it!
+Dialogue: 0,0:06:56.18,0:06:59.14,punie dialogue,,0,0,0,,She got her!
+Dialogue: 0,0:06:57.12,0:06:59.14,punie dialogue,,0,0,0,,You fell for it!
 Dialogue: 0,0:06:59.65,0:07:00.64,punie dialogue,,0,0,0,,A dummy!
 Dialogue: 0,0:07:09.06,0:07:13.83,punie dialogue,,0,0,0,,Those cuffs have the magic-inhibiting\Nmark of the evil god Anisakis.
 Dialogue: 0,0:07:14.10,0:07:18.76,punie dialogue,,0,0,0,,Looks like you can't use your magic\Nor your submission holds, Punie.
@@ -119,8 +115,8 @@ Dialogue: 0,0:08:35.08,0:08:39.58,punie dialogue,,0,0,0,,I should've been the pr
 Dialogue: 0,0:08:40.89,0:08:43.18,punie dialogue,,0,0,0,,What? That can't be!
 Dialogue: 0,0:08:43.89,0:08:46.65,punie dialogue,,0,0,0,,Punie-chan, say something!
 Dialogue: 0,0:08:48.90,0:08:52.16,punie dialogue,,0,0,0,,Your father was incompetent,\Nso he was overthrown.
-Dialogue: 0,0:08:52.50,0:08:53.37,punie dialogue,,0,0,0,,What?
-Dialogue: 0,0:08:53.37,0:08:54.66,punie dialogue,,0,0,0,,What?\NPunie-chan!
+Dialogue: 0,0:08:52.50,0:08:54.66,punie dialogue,,0,0,0,,What?
+Dialogue: 0,0:08:53.37,0:08:54.66,punie dialogue,,0,0,0,,Punie-chan!
 Dialogue: 0,0:08:55.03,0:08:57.56,punie dialogue,,0,0,0,,As a matter of fact,\Nyou should be grateful.
 Dialogue: 0,0:08:57.67,0:09:00.66,punie dialogue,,0,0,0,,Since he was\Nthrown out instead of beheaded.
 Dialogue: 0,0:09:02.74,0:09:08.24,punie dialogue,,0,0,0,,The king was incompetent, so he's\Nhaving a hard time getting a job.
@@ -160,8 +156,8 @@ Dialogue: 0,0:11:58.82,0:12:01.18,punie dialogue,,0,0,0,,Did I do too much? Oops
 Dialogue: 0,0:12:01.29,0:12:03.26,punie dialogue,,0,0,0,,What do you mean "oops"?
 Dialogue: 0,0:12:04.72,0:12:06.09,punie dialogue,,0,0,0,,{\i1}Episode 4:{\i0}
 Dialogue: 0,0:12:06.19,0:12:09.68,punie dialogue,,0,0,0,,{\i1}Oh, So Cute! Did You Know the\NChances of Having Twins Are 1/120?{\i0}
-Dialogue: 0,0:12:14.43,0:12:15.17,punie dialogue,,0,0,0,,Hey.
-Dialogue: 0,0:12:15.17,0:12:16.40,punie dialogue,,0,0,0,,Hey.\NYou there.
+Dialogue: 0,0:12:14.43,0:12:16.40,punie dialogue,,0,0,0,,Hey.
+Dialogue: 0,0:12:15.17,0:12:16.40,punie dialogue,,0,0,0,,You there.
 Dialogue: 0,0:12:17.94,0:12:22.27,punie dialogue,,0,0,0,,The old lady with the aging skin.\NDo you know this person?
 Dialogue: 0,0:12:22.91,0:12:25.43,punie dialogue,,0,0,0,,Me? Are you talking about me?
 Dialogue: 0,0:12:25.54,0:12:28.01,punie dialogue,,0,0,0,,Who else would it be?
@@ -173,8 +169,8 @@ Dialogue: 0,0:12:40.16,0:12:42.15,punie dialogue,,0,0,0,,She's our friend.
 Dialogue: 0,0:12:42.50,0:12:46.33,punie dialogue,,0,0,0,,Oh, you old ladies\Nare friends with our sister?
 Dialogue: 0,0:12:47.27,0:12:50.86,punie dialogue,,0,0,0,,I'm surprised that\Nthe brute actually has friends!
 Dialogue: 0,0:12:50.97,0:12:54.00,punie dialogue,,0,0,0,,Are you two\NPunie-chan's younger sisters?
-Dialogue: 0,0:12:54.27,0:12:56.01,punie dialogue,,0,0,0,,Her younger sister, Pyun Tanaka.
-Dialogue: 0,0:12:56.01,0:12:58.31,punie dialogue,,0,0,0,,Her younger sister, Pyun Tanaka.\NAnd Potaru Tanaka.
+Dialogue: 0,0:12:54.27,0:12:58.31,punie dialogue,,0,0,0,,Her younger sister, Pyun Tanaka.
+Dialogue: 0,0:12:56.01,0:12:58.31,punie dialogue,,0,0,0,,And Potaru Tanaka.
 Dialogue: 0,0:12:58.98,0:13:01.10,punie dialogue,,0,0,0,,Remember our names, idiots!
 Dialogue: 0,0:13:02.08,0:13:06.58,punie dialogue,,0,0,0,,They're definitely Punie's sisters.\NWhat vicious powers do they have...
 Dialogue: 0,0:13:07.19,0:13:10.18,punie dialogue,,0,0,0,,Hurry up and take us to our sister.
@@ -197,8 +193,8 @@ Dialogue: 0,0:13:57.74,0:14:01.50,punie dialogue,,0,0,0,,That's why you came to 
 Dialogue: 0,0:14:01.77,0:14:04.37,punie dialogue,,0,0,0,,Payatan and\NHole-digger Ellie were the same.
 Dialogue: 0,0:14:04.48,0:14:09.47,punie dialogue,,0,0,0,,Why does everyone from the land\Nof magic want to kill Punie-chan?
 Dialogue: 0,0:14:11.12,0:14:13.78,punie dialogue,,0,0,0,,The right of succession aside...
-Dialogue: 0,0:14:16.02,0:14:18.19,punie dialogue,,0,0,0,,Don't use sharp objects in the streets!
-Dialogue: 0,0:14:18.19,0:14:19.92,punie dialogue,,0,0,0,,Don't use sharp objects in the streets!\NWe're sorry!
+Dialogue: 0,0:14:16.02,0:14:19.92,punie dialogue,,0,0,0,,Don't use sharp objects in the streets!
+Dialogue: 0,0:14:18.19,0:14:19.92,punie dialogue,,0,0,0,,We're sorry!
 Dialogue: 0,0:14:20.46,0:14:24.42,punie dialogue,,0,0,0,,I have to go to school, so stay\Nat the Punie house and behave.
 Dialogue: 0,0:14:24.53,0:14:26.05,punie dialogue,,0,0,0,,Okay...
 Dialogue: 0,0:14:31.17,0:14:35.20,punie dialogue,,0,0,0,,That's not like you.\NLetting them go after a spanking.
@@ -221,8 +217,8 @@ Dialogue: 0,0:15:36.57,0:15:39.97,punie dialogue,,0,0,0,,Abandon our sister\Nand
 Dialogue: 0,0:15:40.07,0:15:42.54,punie dialogue,,0,0,0,,We'll guarantee you'll succeed in life.
 Dialogue: 0,0:15:42.64,0:15:45.63,punie dialogue,,0,0,0,,Oh, jeez. Not that story again...
 Dialogue: 0,0:15:52.88,0:15:57.15,punie dialogue,,0,0,0,,Come up with a better story next time.
-Dialogue: 0,0:15:59.52,0:16:00.53,punie dialogue,,0,0,0,,See you.
-Dialogue: 0,0:16:00.53,0:16:01.49,punie dialogue,,0,0,0,,See you.\NWait!
+Dialogue: 0,0:15:59.52,0:16:01.49,punie dialogue,,0,0,0,,See you.
+Dialogue: 0,0:16:00.53,0:16:01.49,punie dialogue,,0,0,0,,Wait!
 Dialogue: 0,0:16:01.86,0:16:05.23,punie dialogue,,0,0,0,,You think you can get away\Nby turning your back to us?
 Dialogue: 0,0:16:05.83,0:16:08.03,punie dialogue,,0,0,0,,Listen, little girls.
 Dialogue: 0,0:16:08.13,0:16:10.46,punie dialogue,,0,0,0,,Punie might be nice to you...
