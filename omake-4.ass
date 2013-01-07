@@ -14,21 +14,21 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:02.77,Default,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Esmeralda{\i0}
-Dialogue: 0,0:00:03.90,0:00:05.93,Default,,0,0,0,,It's summer break right now.
-Dialogue: 0,0:00:06.04,0:00:10.14,Default,,0,0,0,,I brought Tetsuko-chan back to\Nmy home for the first time in a while.
-Dialogue: 0,0:00:10.74,0:00:15.15,Default,,0,0,0,,I'm Punie's mother, Esmeralda.\NThank you for coming all this way.
-Dialogue: 0,0:00:15.48,0:00:19.75,Default,,0,0,0,,Nice to meet you. I'm Tetsuko Koku,\Nher friend and classmate.
-Dialogue: 0,0:00:20.12,0:00:23.38,Default,,0,0,0,,There's not much here,\Nbut make yourself at home.
-Dialogue: 0,0:00:23.49,0:00:25.12,Default,,0,0,0,,Thanks so much.
-Dialogue: 0,0:00:28.13,0:00:29.89,Default,,0,0,0,,Die, Esmeralda!
-Dialogue: 0,0:00:30.00,0:00:32.26,Default,,0,0,0,,Get out of the way!
-Dialogue: 0,0:00:36.77,0:00:39.57,Default,,0,0,0,,It's a coup by\Nthe witches! We're done for!
-Dialogue: 0,0:00:39.67,0:00:41.14,Default,,0,0,0,,I'll be gone for a bit.
-Dialogue: 0,0:00:41.14,0:00:42.94,Default,,0,0,0,,I'll be gone for a bit.\NYes, Mama.
-Dialogue: 0,0:00:46.01,0:00:47.31,Default,,0,0,0,,You've shown yourself!
-Dialogue: 0,0:00:47.31,0:00:49.34,Default,,0,0,0,,You've shown yourself!\NLike a moth to a flame!
-Dialogue: 0,0:00:49.45,0:00:50.78,Default,,0,0,0,,Get her!
-Dialogue: 0,0:00:52.68,0:00:57.59,Default,,0,0,0,,Lyrical Tokarev, nobody, no cry!
-Dialogue: 0,0:01:14.61,0:01:15.90,Default,,0,0,0,,Now then...
-Dialogue: 0,0:01:17.21,0:01:21.34,Default,,0,0,0,,There's not much here,\Nbut make yourself at home.
+Dialogue: 0,0:00:00.30,0:00:02.77,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Esmeralda{\i0}
+Dialogue: 0,0:00:03.90,0:00:05.93,punie dialogue,,0,0,0,,It's summer break right now.
+Dialogue: 0,0:00:06.04,0:00:10.14,punie dialogue,,0,0,0,,I brought Tetsuko-chan back to\Nmy home for the first time in a while.
+Dialogue: 0,0:00:10.74,0:00:15.15,punie dialogue,,0,0,0,,I'm Punie's mother, Esmeralda.\NThank you for coming all this way.
+Dialogue: 0,0:00:15.48,0:00:19.75,punie dialogue,,0,0,0,,Nice to meet you. I'm Tetsuko Koku,\Nher friend and classmate.
+Dialogue: 0,0:00:20.12,0:00:23.38,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.
+Dialogue: 0,0:00:23.49,0:00:25.12,punie dialogue,,0,0,0,,Thanks so much.
+Dialogue: 0,0:00:28.13,0:00:29.89,punie dialogue,,0,0,0,,Die, Esmeralda!
+Dialogue: 0,0:00:30.00,0:00:32.26,punie dialogue,,0,0,0,,Get out of the way!
+Dialogue: 0,0:00:36.77,0:00:39.57,punie dialogue,,0,0,0,,It's a coup by\Nthe witches! We're done for!
+Dialogue: 0,0:00:39.67,0:00:41.14,punie dialogue,,0,0,0,,I'll be gone for a bit.
+Dialogue: 0,0:00:41.14,0:00:42.94,punie dialogue,,0,0,0,,I'll be gone for a bit.\NYes, Mama.
+Dialogue: 0,0:00:46.01,0:00:47.31,punie dialogue,,0,0,0,,You've shown yourself!
+Dialogue: 0,0:00:47.31,0:00:49.34,punie dialogue,,0,0,0,,You've shown yourself!\NLike a moth to a flame!
+Dialogue: 0,0:00:49.45,0:00:50.78,punie dialogue,,0,0,0,,Get her!
+Dialogue: 0,0:00:52.68,0:00:57.59,punie dialogue,,0,0,0,,Lyrical Tokarev, nobody, no cry!
+Dialogue: 0,0:01:14.61,0:01:15.90,punie dialogue,,0,0,0,,Now then...
+Dialogue: 0,0:01:17.21,0:01:21.34,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.

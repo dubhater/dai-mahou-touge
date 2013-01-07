@@ -14,17 +14,17 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:02.27,Default,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Civilization{\i0}
-Dialogue: 0,0:00:02.57,0:00:05.90,Default,,0,0,0,,Punie-chan,\Nwhat's the land of magic like?
-Dialogue: 0,0:00:06.01,0:00:07.74,Default,,0,0,0,,Shall we go there?
-Dialogue: 0,0:00:07.84,0:00:12.14,Default,,0,0,0,,Lyrical Tokarev, kill them all!
-Dialogue: 0,0:00:18.05,0:00:21.32,Default,,0,0,0,,Let's take the Metro\NMagic Line to the castle!
-Dialogue: 0,0:00:21.42,0:00:25.82,Default,,0,0,0,,A tram in the land of magic!\NI wonder what powers this thing?
-Dialogue: 0,0:00:28.63,0:00:31.26,Default,,0,0,0,,The first light in ten years... Save us...
-Dialogue: 0,0:00:32.73,0:00:34.76,Default,,0,0,0,,Punie-chan, that was...
-Dialogue: 0,0:00:34.87,0:00:38.50,Default,,0,0,0,,The tram's slow, so let's\Ntake the Magic Southern Central.
-Dialogue: 0,0:00:39.94,0:00:44.38,Default,,0,0,0,,There's no pantograph line.\NDoes it get power from a third rail?
-Dialogue: 0,0:00:51.45,0:00:54.01,Default,,0,0,0,,I'm gonna die... Let me off...
-Dialogue: 0,0:00:54.59,0:00:57.78,Default,,0,0,0,,Punie-chan,\Ndoes the land of magic run on...
-Dialogue: 0,0:00:57.89,0:01:00.45,Default,,0,0,0,,Oh, the Magical\NGovernment Office building!
-Dialogue: 0,0:01:00.56,0:01:02.53,Default,,0,0,0,,Don't change the subject!
+Dialogue: 0,0:00:00.30,0:00:02.27,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Civilization{\i0}
+Dialogue: 0,0:00:02.57,0:00:05.90,punie dialogue,,0,0,0,,Punie-chan,\Nwhat's the land of magic like?
+Dialogue: 0,0:00:06.01,0:00:07.74,punie dialogue,,0,0,0,,Shall we go there?
+Dialogue: 0,0:00:07.84,0:00:12.14,punie dialogue,,0,0,0,,Lyrical Tokarev, kill them all!
+Dialogue: 0,0:00:18.05,0:00:21.32,punie dialogue,,0,0,0,,Let's take the Metro\NMagic Line to the castle!
+Dialogue: 0,0:00:21.42,0:00:25.82,punie dialogue,,0,0,0,,A tram in the land of magic!\NI wonder what powers this thing?
+Dialogue: 0,0:00:28.63,0:00:31.26,punie dialogue,,0,0,0,,The first light in ten years... Save us...
+Dialogue: 0,0:00:32.73,0:00:34.76,punie dialogue,,0,0,0,,Punie-chan, that was...
+Dialogue: 0,0:00:34.87,0:00:38.50,punie dialogue,,0,0,0,,The tram's slow, so let's\Ntake the Magic Southern Central.
+Dialogue: 0,0:00:39.94,0:00:44.38,punie dialogue,,0,0,0,,There's no pantograph line.\NDoes it get power from a third rail?
+Dialogue: 0,0:00:51.45,0:00:54.01,punie dialogue,,0,0,0,,I'm gonna die... Let me off...
+Dialogue: 0,0:00:54.59,0:00:57.78,punie dialogue,,0,0,0,,Punie-chan,\Ndoes the land of magic run on...
+Dialogue: 0,0:00:57.89,0:01:00.45,punie dialogue,,0,0,0,,Oh, the Magical\NGovernment Office building!
+Dialogue: 0,0:01:00.56,0:01:02.53,punie dialogue,,0,0,0,,Don't change the subject!
