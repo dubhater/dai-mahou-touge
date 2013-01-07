@@ -5,8 +5,8 @@ PlayResX: 712
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 288
-Active Line: 307
+Scroll Position: 289
+Active Line: 98
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 ScriptType: v4.00+
@@ -110,16 +110,14 @@ Dialogue: 0,0:06:17.01,0:06:19.94,punie dialogue,,0,0,0,,I want to have\Ngood me
 Dialogue: 0,0:06:25.88,0:06:29.79,punie dialogue,,0,0,0,,I'm going to take\Nthat bandana off your head.
 Dialogue: 0,0:06:31.36,0:06:32.82,punie dialogue,,0,0,0,,I won't lose.
 Dialogue: 0,0:06:32.82,0:06:36.83,punie dialogue,,0,0,0,,{\i1}Victory for White Team\NThe mock cavalry battle starts now.{\i0}
-Dialogue: 0,0:06:36.83,0:06:37.30,punie dialogue,,0,0,0,,{\i1}White Team Red Team{\i0}
-Dialogue: 0,0:06:37.30,0:06:39.83,punie dialogue,,0,0,0,,{\i1}White Team Red Team\NGoodness, the teams are tied.{\i0}
-Dialogue: 0,0:06:39.83,0:06:41.06,punie dialogue,,0,0,0,,Goodness, the teams are tied.
+Dialogue: 0,0:06:36.83,0:06:39.83,punie dialogue,,0,0,0,,{\i1}White Team Red Team{\i0}
+Dialogue: 0,0:06:37.30,0:06:41.06,punie dialogue,,0,0,0,,Goodness, the teams are tied.
 Dialogue: 0,0:06:42.57,0:06:44.93,punie dialogue,,0,0,0,,Here comes the red team!
 Dialogue: 0,0:06:55.48,0:06:59.04,punie dialogue,,0,0,0,,And now, here comes the white team!
 Dialogue: 0,0:06:59.38,0:07:00.78,punie dialogue,,0,0,0,,Come on, Puni...
 Dialogue: 0,0:07:00.89,0:07:02.29,punie dialogue,,0,0,0,,What?
-Dialogue: 0,0:07:02.39,0:07:02.79,punie dialogue,,0,0,0,,{\i1}Punie{\i0}
-Dialogue: 0,0:07:02.79,0:07:03.76,punie dialogue,,0,0,0,,{\i1}Punie\NPunie Cavalry!{\i0}
-Dialogue: 0,0:07:03.76,0:07:04.78,punie dialogue,,0,0,0,,Punie Cavalry!
+Dialogue: 0,0:07:02.39,0:07:03.76,punie dialogue,,0,0,0,,{\i1}Punie{\i0}
+Dialogue: 0,0:07:02.79,0:07:04.78,punie dialogue,,0,0,0,,Punie Cavalry!
 Dialogue: 0,0:07:06.83,0:07:09.26,punie dialogue,,0,0,0,,The White Rose Squad is here!
 Dialogue: 0,0:07:09.63,0:07:11.72,punie dialogue,,0,0,0,,You brought a real cavalry?
 Dialogue: 0,0:07:12.43,0:07:17.03,punie dialogue,,0,0,0,,This is your first battle.\NLook well at how your sister fights.

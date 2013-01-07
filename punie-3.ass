@@ -5,8 +5,8 @@ PlayResX: 720
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 323
-Active Line: 338
+Scroll Position: 18
+Active Line: 35
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 ScriptType: v4.00+
@@ -53,8 +53,8 @@ Dialogue: 0,0:02:17.17,0:02:19.60,punie dialogue,,0,0,0,,They can't go up to six
 Dialogue: 0,0:02:19.71,0:02:24.37,punie dialogue,,0,0,0,,That's equivalent to the land of\Nmagic's old-emperor level, paya!
 Dialogue: 0,0:02:24.48,0:02:26.31,punie dialogue,,0,0,0,,You must be...
 Dialogue: 0,0:02:26.71,0:02:27.74,punie dialogue,,0,0,0,,...stupid.
-Dialogue: 0,0:02:28.01,0:02:28.55,punie dialogue,,0,0,0,,No! Don't say that!
-Dialogue: 0,0:02:28.55,0:02:30.65,punie dialogue,,0,0,0,,{\i1}Stupid\NNo! Don't say that!{\i0}
+Dialogue: 0,0:02:28.01,0:02:30.65,punie dialogue,,0,0,0,,No! Don't say that!
+Dialogue: 0,0:02:28.55,0:02:30.65,punie dialogue,,0,0,0,,{\i1}Stupid
 Dialogue: 0,0:02:30.65,0:02:33.62,punie dialogue,,0,0,0,,{\i1}Episode 5: Can You Decide\NSomeone's Value with Test Scores?{\i0}
 Dialogue: 0,0:02:33.72,0:02:36.12,punie dialogue,,0,0,0,,{\i1}'m Probably a Zero Anyway.\NThat's Right.{\i0}
 Dialogue: 0,0:02:36.46,0:02:41.52,punie dialogue,,0,0,0,,This is hilarious. The princess\Nfrom the land of magic is an idiot.
