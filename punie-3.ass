@@ -5,10 +5,14 @@ PlayResX: 720
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 18
-Active Line: 35
+Scroll Position: 318
+Active Line: 321
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
+Audio URI: ../audio/ep3 T81 2_0ch 192Kbps DELAY 0ms.ac3
+Video File: ../raws/ep3.mkv
+Video Aspect Ratio: c1.37405
+Video Position: 32351
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -16,10 +20,12 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: punie dialogue,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie title,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie signs fansub,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.68,0:00:11.77,punie dialogue,,0,0,0,,{\i1}Magical Witch Punie-chan{\i0}
+Dialogue: 0,0:00:08.68,0:00:11.77,punie title,,0,0,0,,Magical Witch Punie-chan
 Dialogue: 0,0:00:11.94,0:00:14.88,punie songs,,0,0,0,,Spin that Princess Rod.
 Dialogue: 0,0:00:15.18,0:00:18.12,punie songs,,0,0,0,,She has descended\Nfrom the land of magic.
 Dialogue: 0,0:00:18.45,0:00:21.58,punie songs,,0,0,0,,Spin that magical stick.
@@ -54,7 +60,7 @@ Dialogue: 0,0:02:19.71,0:02:24.37,punie dialogue,,0,0,0,,That's equivalent to th
 Dialogue: 0,0:02:24.48,0:02:26.31,punie dialogue,,0,0,0,,You must be...
 Dialogue: 0,0:02:26.71,0:02:27.74,punie dialogue,,0,0,0,,...stupid.
 Dialogue: 0,0:02:28.01,0:02:30.65,punie dialogue,,0,0,0,,No! Don't say that!
-Dialogue: 0,0:02:28.55,0:02:30.65,punie dialogue,,0,0,0,,{\i1}Stupid
+Comment: 0,0:02:28.55,0:02:30.65,punie dialogue,,0,0,0,,{\i1}Stupid
 Dialogue: 0,0:02:30.65,0:02:33.62,punie dialogue,,0,0,0,,{\i1}Episode 5: Can You Decide\NSomeone's Value with Test Scores?{\i0}
 Dialogue: 0,0:02:33.72,0:02:36.12,punie dialogue,,0,0,0,,{\i1}'m Probably a Zero Anyway.\NThat's Right.{\i0}
 Dialogue: 0,0:02:36.46,0:02:41.52,punie dialogue,,0,0,0,,This is hilarious. The princess\Nfrom the land of magic is an idiot.
@@ -173,10 +179,10 @@ Dialogue: 0,0:10:43.58,0:10:44.63,punie dialogue,,0,0,0,,R-Right.
 Dialogue: 0,0:10:45.08,0:10:50.14,punie dialogue,,0,0,0,,There's a bullet train stationed every\N30 minutes at Annakaharuna Station...
 Dialogue: 0,0:10:50.25,0:10:53.05,punie dialogue,,0,0,0,,Hang on! That's just a delusion!
 Dialogue: 0,0:10:56.56,0:10:57.58,punie dialogue,,0,0,0,,Hey!
-Dialogue: 0,0:11:00.73,0:11:12.70,punie dialogue,,0,0,0,,{\i1}Climb Nitakayama 1208{\i0}
-Dialogue: 0,0:11:19.01,0:11:20.14,punie dialogue,,0,0,0,,Tetsuko Koku
-Dialogue: 0,0:11:24.12,0:11:26.08,punie dialogue,,0,0,0,,{\i1}Punie Tanaka{\i0}
-Dialogue: 0,0:11:29.52,0:11:38.02,punie dialogue,,0,0,0,,{\i1}Tora! Tora! Tora!{\i0}
+Dialogue: 0,0:11:00.73,0:11:12.70,punie signs fansub,,0,0,0,,{\i1}Climb Nitakayama 1208{\i0}
+Dialogue: 0,0:11:18.99,0:11:19.82,punie signs fansub,,0,0,0,,{\an8\fad(210,0)}Tetsuko Koku
+Dialogue: 0,0:11:24.07,0:11:26.08,punie signs fansub,,0,0,0,,{\an8}Punie Tanaka
+Dialogue: 0,0:11:29.52,0:11:38.02,punie signs fansub,,0,0,0,,{\i1}Tora! Tora! Tora!{\i0}
 Dialogue: 0,0:11:38.46,0:11:40.73,punie dialogue,,0,0,0,,Good job, paya! Let's flee, paya!
 Dialogue: 0,0:11:41.10,0:11:42.62,punie dialogue,,0,0,0,,Aye aye, sir!
 Dialogue: 0,0:11:43.27,0:11:47.97,punie dialogue,,0,0,0,,That was close, paya.\NIt was about to turn ugly, paya.
@@ -283,7 +289,7 @@ Dialogue: 0,0:17:47.27,0:17:49.29,punie dialogue,,0,0,0,,No, not at all.
 Dialogue: 0,0:17:49.40,0:17:54.03,punie dialogue,,0,0,0,,She said she didn't wait.
 Dialogue: 0,0:17:50.97,0:17:54.03,punie dialogue,,0,0,0,,She came an hour early too.
 Dialogue: 0,0:17:54.54,0:17:57.28,punie dialogue,,0,0,0,,I'll kill them...\NI'll kill them later for sure...
-Dialogue: 0,0:17:57.28,0:17:59.54,punie dialogue,,0,0,0,,Mouse Land
+Dialogue: 0,0:17:57.28,0:17:58.68,punie signs fansub,,0,0,0,,{\an8}Mouse Land{nezumi rando}
 Dialogue: 0,0:18:02.78,0:18:04.91,punie dialogue,,0,0,0,,What should we ride first?
 Dialogue: 0,0:18:05.02,0:18:06.38,punie dialogue,,0,0,0,,Let's see...
 Dialogue: 0,0:18:06.48,0:18:08.65,punie dialogue,,0,0,0,,How about the roller coaster?
@@ -307,7 +313,7 @@ Dialogue: 0,0:19:34.67,0:19:36.44,punie dialogue,,0,0,0,,We're going already?
 Dialogue: 0,0:19:36.54,0:19:40.00,punie dialogue,,0,0,0,,I'm begging you, Punie.\NLeave us alone...
 Dialogue: 0,0:19:40.11,0:19:43.05,punie dialogue,,0,0,0,,What are you saying?\NThe real fun begins here.
 Dialogue: 0,0:19:43.15,0:19:47.05,punie dialogue,,0,0,0,,You're on an amusement-park\Ndate, so you have to go there.
-Dialogue: 0,0:19:47.05,0:19:51.51,punie dialogue,,0,0,0,,{\i1}Mansion of Fear{\i0}
+Dialogue: 0,0:19:47.05,0:19:51.54,punie signs fansub,,0,0,0,,{\an8}Mansion of Fear
 Dialogue: 0,0:19:52.06,0:19:55.52,punie dialogue,,0,0,0,,Wow, a mansion of fear.\NSounds good.
 Dialogue: 0,0:19:55.96,0:20:01.23,punie dialogue,,0,0,0,,Holding each other out of fear\Nof the dark... And while they're at it...
 Dialogue: 0,0:20:01.33,0:20:04.56,punie dialogue,,0,0,0,,What are you trying\Nto make me say, Punie-chan?
@@ -340,8 +346,8 @@ Dialogue: 0,0:22:03.06,0:22:04.96,punie dialogue,,0,0,0,,I'll do the counter!
 Dialogue: 0,0:22:12.83,0:22:16.77,punie dialogue,,0,0,0,,Wow, I'm drifting! This can't be real!
 Dialogue: 0,0:22:16.87,0:22:18.73,punie dialogue,,0,0,0,,You're spinning, idiot!
 Dialogue: 0,0:22:18.84,0:22:23.47,punie dialogue,,0,0,0,,I'm not an idiot! I'm really smart!\NI can get into Tokyo University!
-Dialogue: 0,0:22:29.28,0:22:32.25,punie dialogue,,0,0,0,,{\i1}Punie Tanaka's Store\N(For Personal Use){\i0}
-Dialogue: 0,0:22:35.72,0:22:37.55,punie dialogue,,0,0,0,,{\i1}Great Magic Ridge{\i0}
+Dialogue: 0,0:22:29.28,0:22:32.70,punie signs fansub,,0,60,0,,{\an9}Punie Tanaka's Store\N(For Personal Use)
+Dialogue: 0,0:22:35.72,0:22:38.46,punie signs fansub,,0,0,0,,{\an8}Great Magic Ridge
 Dialogue: 0,0:22:38.86,0:22:41.42,punie dialogue,,0,0,0,,This is great! It's really great!
 Dialogue: 0,0:22:41.53,0:22:45.19,punie dialogue,,0,0,0,,This is better than mugging people!\NShould I drift again?
 Dialogue: 0,0:22:45.96,0:22:47.06,punie dialogue,,0,0,0,,Okay!
