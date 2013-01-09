@@ -5,10 +5,14 @@ PlayResX: 712
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 0
-Active Line: 0
+Scroll Position: 277
+Active Line: 136
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
+Audio URI: ../audio/ep2 T81 2_0ch 192Kbps DELAY 0ms.ac3
+Video File: ../raws/ep2.mkv
+Video Aspect Ratio: c1.35878
+Video Position: 17495
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -16,13 +20,15 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: punie dialogue,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie title,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie signs fansub,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.40,0:00:03.80,punie dialogue,,0,0,0,,Her name is Punie Tanaka.
 Dialogue: 0,0:00:03.94,0:00:06.60,punie dialogue,,0,0,0,,She's a princess\Nfrom the land of magic.
 Dialogue: 0,0:00:06.71,0:00:11.97,punie dialogue,,0,0,0,,She's currently going through with her\Nearthly trials. Good luck, Punie-chan!
-Dialogue: 0,0:00:20.69,0:00:23.78,punie dialogue,,0,0,0,,{\i1}Magical Witch Punie-chan{\i0}
+Dialogue: 0,0:00:20.69,0:00:23.78,punie title,,0,0,0,,Magical Witch Punie-chan
 Dialogue: 0,0:00:23.96,0:00:26.89,punie songs,,0,0,0,,Spin that Princess Rod.
 Dialogue: 0,0:00:27.19,0:00:30.13,punie songs,,0,0,0,,She has descended\Nfrom the land of magic.
 Dialogue: 0,0:00:30.46,0:00:33.59,punie songs,,0,0,0,,Spin that magical stick.
@@ -34,13 +40,13 @@ Dialogue: 0,0:00:57.79,0:01:04.42,punie songs,,0,0,0,,I will take you to the lan
 Dialogue: 0,0:01:04.66,0:01:10.76,punie songs,,0,0,0,,Lyrical Tokarev, kill them all.
 Dialogue: 0,0:01:10.87,0:01:19.68,punie songs,,0,0,0,,There's only one way\Nto survive, and that is to fight.
 Dialogue: 0,0:01:27.25,0:01:38.29,punie songs,,0,0,0,,There's only one path that leads\Nto supremacy, and that is by fighting.
-Dialogue: 0,0:01:42.10,0:01:44.07,punie dialogue,,0,0,0,,{\i1}Railroad Journal{\i0}
+Dialogue: 0,0:01:42.10,0:01:44.07,punie signs fansub,,0,0,0,,{\an8}Railroad Journal
 Dialogue: 0,0:01:45.30,0:01:47.64,punie dialogue,,0,0,0,,Good morning, Tetsuko-chan!
 Dialogue: 0,0:01:50.74,0:01:52.14,punie dialogue,,0,0,0,,Morning, Punie-chan.
 Dialogue: 0,0:01:52.24,0:01:55.97,punie dialogue,,0,0,0,,We'll be late if we don't hurry.
 Dialogue: 0,0:01:53.81,0:01:55.97,punie dialogue,,0,0,0,,You're right.
 Dialogue: 0,0:01:56.28,0:02:00.01,punie dialogue,,0,0,0,,Dr. Yellow's HO is a limited edition.
-Dialogue: 0,0:02:00.82,0:02:02.62,punie dialogue,,0,0,0,,{\i1}Handmade Noodles{\i0}
+Dialogue: 0,0:02:00.82,0:02:02.62,punie signs fansub,,0,60,0,,{\an9}Handmade Noodles
 Dialogue: 0,0:02:08.83,0:02:09.95,punie dialogue,,0,0,0,,What's wrong?
 Dialogue: 0,0:02:28.11,0:02:29.78,punie dialogue,,0,0,0,,Ouch!
 Dialogue: 0,0:02:30.25,0:02:32.05,punie dialogue,,0,0,0,,Tetsuko-chan, you okay?
@@ -108,8 +114,8 @@ Dialogue: 0,0:07:34.75,0:07:36.31,punie dialogue,,0,0,0,,You've misunderstood!
 Dialogue: 0,0:07:36.42,0:07:39.88,punie dialogue,,0,0,0,,The Tanaka family is\Nthe one who usurped the throne!
 Dialogue: 0,0:07:43.46,0:07:48.56,punie dialogue,,0,0,0,,My father, King Barbaroque, was\Na wise monarch loved by his people.
 Dialogue: 0,0:07:59.51,0:08:00.64,punie dialogue,,0,0,0,,But...
-Dialogue: 0,0:08:01.18,0:08:03.18,punie dialogue,,0,0,0,,{\i1}Suspicious empire{\i0}
-Dialogue: 0,0:08:03.18,0:08:06.15,punie dialogue,,0,0,0,,{\i1}Rise and revolt!\NOverthrow the traitor!{\i0}
+Dialogue: 0,0:08:00.75,0:08:03.18,punie signs fansub,,0,0,0,,{\an8}Suspicious empire
+Dialogue: 0,0:08:03.18,0:08:06.17,punie signs fansub,,0,0,0,,{\an8}Rise and revolt!\NOverthrow the traitor!
 Dialogue: 0,0:08:25.24,0:08:30.07,punie dialogue,,0,0,0,,We were cast out thanks to Punie's\Nmother, Esmeralda, and her dirty plan.
 Dialogue: 0,0:08:35.08,0:08:39.58,punie dialogue,,0,0,0,,I should've been the princess\Nof Saint Magical Kingdom!
 Dialogue: 0,0:08:40.89,0:08:43.18,punie dialogue,,0,0,0,,What? That can't be!
