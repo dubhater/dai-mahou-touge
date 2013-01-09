@@ -5,10 +5,14 @@ PlayResX: 712
 PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 289
-Active Line: 98
+Scroll Position: 308
+Active Line: 308
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
+Video File: ../raws/ep4.mkv
+Video Aspect Ratio: c1.35878
+Video Position: 31031
+Audio URI: ../audio/ep4 T81 2_0ch 192Kbps DELAY 0ms.ac3
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -16,10 +20,12 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: punie dialogue,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie title,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie signs fansub,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.68,0:00:11.77,punie dialogue,,0,0,0,,{\i1}Magical Witch Punie-chan{\i0}
+Dialogue: 0,0:00:08.68,0:00:11.77,punie title,,0,0,0,,Magical Witch Punie-chan
 Dialogue: 0,0:00:11.94,0:00:14.88,punie songs,,0,0,0,,Spin that Princess Rod.
 Dialogue: 0,0:00:15.18,0:00:18.12,punie songs,,0,0,0,,She has descended\Nfrom the land of magic.
 Dialogue: 0,0:00:18.45,0:00:21.58,punie songs,,0,0,0,,Spin that magical stick.
@@ -40,9 +46,10 @@ Dialogue: 0,0:02:06.02,0:02:09.12,punie dialogue,,0,0,0,,I'm sorry if I sound to
 Dialogue: 0,0:02:10.96,0:02:12.33,punie dialogue,,0,0,0,,I can't, right?
 Dialogue: 0,0:02:17.27,0:02:19.30,punie dialogue,,0,0,0,,No problem!
 Dialogue: 0,0:02:20.01,0:02:22.03,punie dialogue,,0,0,0,,Go and do your best!
-Dialogue: 0,0:02:23.81,0:02:29.82,punie dialogue,,0,0,0,,{\i1}Episode 7: Don't Think Participation\NIs Important. That's Too Lenient.{\i0}
-Dialogue: 0,0:02:29.82,0:02:33.79,punie dialogue,,0,0,0,,{\i1}Sports Festival{\i0}
-Dialogue: 0,0:02:33.79,0:02:36.84,punie dialogue,,0,0,0,,White Team Red Team
+Dialogue: 0,0:02:23.81,0:02:29.79,punie dialogue,,0,0,0,,{\i1}Episode 7: Don't Think Participation\NIs Important. That's Too Lenient.{\i0}
+Dialogue: 0,0:02:29.79,0:02:33.75,punie signs fansub,,0,0,0,,{\an8}Sports Festival
+Dialogue: 0,0:02:33.75,0:02:36.51,punie signs fansub,,0,0,0,,{\pos(315,206)}White Team
+Dialogue: 0,0:02:33.75,0:02:36.51,punie signs fansub,,0,0,0,,{\pos(549,189)}Red Team
 Dialogue: 0,0:02:34.32,0:02:36.84,punie dialogue,,0,0,0,,The girls' spoon race will start soon.
 Dialogue: 0,0:02:36.96,0:02:39.55,punie dialogue,,0,0,0,,Participants, head to the gate now.
 Dialogue: 0,0:02:39.66,0:02:43.65,punie dialogue,,0,0,0,,What's the matter, Anego-san?\NHurry up and go to the gate.
@@ -70,7 +77,7 @@ Dialogue: 0,0:03:49.16,0:03:52.50,punie dialogue,,0,0,0,,The red team's\NTetsuko
 Dialogue: 0,0:03:53.17,0:03:54.33,punie dialogue,,0,0,0,,I did it!
 Dialogue: 0,0:03:56.14,0:03:59.10,punie dialogue,,0,0,0,,Maybe you're just\Nthinking too much, Anego.
 Dialogue: 0,0:04:03.01,0:04:04.84,punie dialogue,,0,0,0,,A regular egg?
-Dialogue: 0,0:04:05.84,0:04:10.04,punie dialogue,,0,0,0,,{\i1}Executive Committee Member{\i0}
+Dialogue: 0,0:04:05.80,0:04:09.56,punie signs fansub,,0,0,0,,Executive Committee Member
 Dialogue: 0,0:04:10.48,0:04:13.38,punie dialogue,,0,0,0,,H-Her eyes are so calm.
 Dialogue: 0,0:04:14.59,0:04:18.82,punie dialogue,,0,0,0,,Don't tell me she'll do\Nthis sports festival fair and square.
 Dialogue: 0,0:04:32.74,0:04:36.47,punie dialogue,,0,0,0,,Go! Go! Red team!\NGo! Go! Red team!
@@ -108,16 +115,18 @@ Dialogue: 0,0:06:08.47,0:06:13.06,punie dialogue,,0,0,0,,The mock cavalry battle
 Dialogue: 0,0:06:13.17,0:06:16.30,punie dialogue,,0,0,0,,I won't use magic.\NI'll compete fair and square.
 Dialogue: 0,0:06:17.01,0:06:19.94,punie dialogue,,0,0,0,,I want to have\Ngood memories with you.
 Dialogue: 0,0:06:25.88,0:06:29.79,punie dialogue,,0,0,0,,I'm going to take\Nthat bandana off your head.
-Dialogue: 0,0:06:31.36,0:06:32.82,punie dialogue,,0,0,0,,I won't lose.
-Dialogue: 0,0:06:32.82,0:06:36.83,punie dialogue,,0,0,0,,{\i1}Victory for White Team\NThe mock cavalry battle starts now.{\i0}
-Dialogue: 0,0:06:36.83,0:06:39.83,punie dialogue,,0,0,0,,{\i1}White Team Red Team{\i0}
+Dialogue: 0,0:06:31.36,0:06:32.78,punie dialogue,,0,0,0,,I won't lose.
+Dialogue: 0,0:06:32.78,0:06:36.79,punie dialogue,,0,0,0,,The mock cavalry battle starts now.
+Dialogue: 0,0:06:32.78,0:06:36.79,punie signs fansub,,0,0,0,,{\an8}Victory for White Team
+Dialogue: 0,0:06:36.79,0:06:39.79,punie signs fansub,,0,0,0,,{\pos(202,81)}White Team
+Dialogue: 0,0:06:36.79,0:06:39.79,punie signs fansub,,0,0,0,,{\pos(519,52)}Red Team
 Dialogue: 0,0:06:37.30,0:06:41.06,punie dialogue,,0,0,0,,Goodness, the teams are tied.
 Dialogue: 0,0:06:42.57,0:06:44.93,punie dialogue,,0,0,0,,Here comes the red team!
 Dialogue: 0,0:06:55.48,0:06:59.04,punie dialogue,,0,0,0,,And now, here comes the white team!
 Dialogue: 0,0:06:59.38,0:07:00.78,punie dialogue,,0,0,0,,Come on, Puni...
 Dialogue: 0,0:07:00.89,0:07:02.29,punie dialogue,,0,0,0,,What?
-Dialogue: 0,0:07:02.39,0:07:03.76,punie dialogue,,0,0,0,,{\i1}Punie{\i0}
-Dialogue: 0,0:07:02.79,0:07:04.78,punie dialogue,,0,0,0,,Punie Cavalry!
+Dialogue: 0,0:07:02.35,0:07:03.73,punie signs fansub,,0,0,0,,{\an8}Punie
+Dialogue: 0,0:07:02.70,0:07:03.73,punie dialogue,,0,0,0,,Punie Cavalry!
 Dialogue: 0,0:07:06.83,0:07:09.26,punie dialogue,,0,0,0,,The White Rose Squad is here!
 Dialogue: 0,0:07:09.63,0:07:11.72,punie dialogue,,0,0,0,,You brought a real cavalry?
 Dialogue: 0,0:07:12.43,0:07:17.03,punie dialogue,,0,0,0,,This is your first battle.\NLook well at how your sister fights.
@@ -142,8 +151,8 @@ Dialogue: 0,0:08:33.71,0:08:34.98,punie dialogue,,0,0,0,,I see.
 Dialogue: 0,0:08:35.08,0:08:37.17,punie dialogue,,0,0,0,,Huh? What's she doing?
 Dialogue: 0,0:08:37.28,0:08:39.58,punie dialogue,,0,0,0,,She's definitely off guard.
 Dialogue: 0,0:08:39.99,0:08:41.45,punie dialogue,,0,0,0,,Time to strike.
-Dialogue: 0,0:08:41.45,0:08:43.02,punie dialogue,,0,0,0,,{\i1}Punie{\i0}
-Dialogue: 0,0:08:43.02,0:08:44.89,punie dialogue,,0,0,0,,Pyun & Potaru
+Dialogue: 0,0:08:41.41,0:08:42.96,punie signs fansub,,0,0,0,,{\an8}Punie
+Dialogue: 0,0:08:42.96,0:08:44.87,punie signs fansub,,0,0,0,,{\an8}Pyun & Potaru
 Dialogue: 0,0:08:45.56,0:08:47.29,punie dialogue,,0,0,0,,Start the horses!
 Dialogue: 0,0:08:47.39,0:08:50.36,punie dialogue,,0,0,0,,Our enemies are on the athletic field!
 Dialogue: 0,0:08:50.76,0:08:52.70,punie dialogue,,0,0,0,,Take the old traitor's head!
@@ -324,7 +333,7 @@ Dialogue: 0,0:21:06.13,0:21:07.93,punie dialogue,,0,0,0,,I won't forgive you!
 Dialogue: 0,0:21:08.03,0:21:09.80,punie dialogue,,0,0,0,,Tickle, tickle, tickle!
 Dialogue: 0,0:21:15.11,0:21:16.60,punie dialogue,,0,0,0,,Punie-chan...
 Dialogue: 0,0:21:26.35,0:21:30.22,punie dialogue,,0,0,0,,Looks like the land of magic\Nwill be peaceful for a while...
-Dialogue: 0,0:21:32.16,0:21:34.25,punie dialogue,,0,0,0,,The End
+Dialogue: 0,0:21:32.16,0:21:34.27,punie signs fansub,,0,0,0,,The End
 Dialogue: 0,0:21:51.41,0:21:59.25,punie songs,,0,0,0,,If you bend the knees upside down...
 Dialogue: 0,0:21:59.52,0:22:06.89,punie songs,,0,0,0,,...even your belief about\Ncrushing a rock becomes distorted.
 Dialogue: 0,0:22:07.53,0:22:15.02,punie songs,,0,0,0,,Good, justice, and even the truth\Nis gone when you feel the pain.
