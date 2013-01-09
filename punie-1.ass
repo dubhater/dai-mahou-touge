@@ -6,13 +6,13 @@ PlayResY: 476
 WarpStyle: 0
 ScaledBorderAndShadow: yes
 Last Style Storage: Default
-Scroll Position: 361
-Active Line: 365
+Scroll Position: 359
+Active Line: 364
 Video Zoom Percent: 1
 Video File: ../raws/ep1.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.35878
-Video Position: 35476
+Video Position: 35357
 Audio URI: ../audio/ep1 T81 2_0ch 192Kbps DELAY 0ms.ac3
 ScriptType: v4.00+
 
@@ -21,6 +21,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: punie dialogue,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie title,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
+Style: punie signs fansub,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,2.5,0,2,10,10,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -51,7 +53,7 @@ Dialogue: 0,0:02:08.86,0:02:11.35,punie dialogue,,0,0,0,,Hey, you need to keep i
 Dialogue: 0,0:02:11.46,0:02:12.83,punie dialogue,,0,0,0,,Shut up!
 Dialogue: 0,0:02:14.20,0:02:15.43,punie dialogue,,0,0,0,,Ouch...
 Dialogue: 0,0:02:20.37,0:02:22.00,punie dialogue,,0,0,0,,Why?
-Dialogue: 0,0:02:32.82,0:02:35.91,punie dialogue,,0,0,0,,{\i1}Magical Witch Punie-chan{\i0}
+Dialogue: 0,0:02:32.82,0:02:35.91,punie title,,0,0,0,,Magical Witch Punie-chan
 Dialogue: 0,0:02:36.09,0:02:39.02,punie songs,,0,0,0,,Spin that Princess Rod.
 Dialogue: 0,0:02:39.36,0:02:42.26,punie songs,,0,0,0,,She has descended\Nfrom the land of magic.
 Dialogue: 0,0:02:42.63,0:02:45.72,punie songs,,0,0,0,,Spin that magical stick.
@@ -93,11 +95,11 @@ Dialogue: 0,0:06:03.53,0:06:05.93,punie dialogue,,0,0,0,,Carrot! Potato!\NCabbag
 Dialogue: 0,0:06:06.03,0:06:07.93,punie dialogue,,0,0,0,,Garlic! Melon! Eggplant! Pumpkin!
 Dialogue: 0,0:06:08.03,0:06:09.43,punie dialogue,,0,0,0,,Corn! Burdock! Chinese cabbage!
 Dialogue: 0,0:06:09.54,0:06:11.90,punie dialogue,,0,0,0,,Sakurajima radish! Broccoli!\NGoya! Japanese yam!
-Dialogue: 0,0:06:45.87,0:06:49.57,punie dialogue,,0,0,0,,{\i1}Life expectancy\Nfor humans is 50 years{\i0}
+Dialogue: 0,0:06:45.87,0:06:49.59,punie signs fansub,,0,0,0,,{\i1}Life expectancy\Nfor humans is 50 years{\i0}
 Dialogue: 0,0:06:53.41,0:06:54.85,punie dialogue,,0,0,0,,Wow! Amazing!
 Dialogue: 0,0:06:54.91,0:06:55.44,punie dialogue,,0,0,0,,Yes!
-Dialogue: 0,0:06:55.52,0:06:58.12,punie dialogue,,0,0,0,,It's like they're welcoming\Nyou with their blessings.
-Dialogue: 0,0:06:58.12,0:07:02.08,punie dialogue,,0,0,0,,{\i1}110th School Festival
+Dialogue: 0,0:06:55.52,0:06:58.10,punie dialogue,,0,0,0,,It's like they're welcoming\Nyou with their blessings.
+Dialogue: 0,0:06:58.10,0:07:02.10,punie signs fansub,,0,0,0,,{\an8}110th School Festival
 Dialogue: 0,0:06:58.52,0:07:00.52,punie dialogue,,0,0,0,,{\i1}So, this is the school festival.{\i0}
 Dialogue: 0,0:07:00.52,0:07:02.08,punie dialogue,,0,0,0,,{\i1}So many stands!{\i0}
 Dialogue: 0,0:07:02.29,0:07:06.25,punie dialogue,,0,0,0,,I came at a really perfect time.\NEarth has such interesting customs.
@@ -119,7 +121,7 @@ Dialogue: 0,0:07:45.93,0:07:46.90,punie dialogue,,0,0,0,,Let's go!
 Dialogue: 0,0:07:47.00,0:07:47.99,punie dialogue,,0,0,0,,Right.
 Dialogue: 0,0:07:50.14,0:07:54.10,punie dialogue,,0,0,0,,I don't know who you are,\Nbut thank you very much!
 Dialogue: 0,0:07:54.21,0:07:55.51,punie dialogue,,0,0,0,,What happened?
-Dialogue: 0,0:07:55.51,0:07:59.60,punie dialogue,,0,0,0,,{\i1}Railroad Research Committee's\NFamous Curry- It's delicious!
+Dialogue: 0,0:07:55.51,0:08:03.92,punie signs fansub,,0,60,0,,{\an9}Railroad Research Committee's\NFamous Curry — It's delicious!
 Dialogue: 0,0:07:55.98,0:07:59.60,punie dialogue,,0,0,0,,For some reason,\Nthat group targets and harasses me.
 Dialogue: 0,0:07:59.71,0:08:02.08,punie dialogue,,0,0,0,,As a result, no one buys from us.
 Dialogue: 0,0:08:02.18,0:08:03.91,punie dialogue,,0,0,0,,I'm sorry to hear that.
@@ -149,7 +151,7 @@ Dialogue: 0,0:09:39.91,0:09:41.94,punie dialogue,,0,0,0,,Boss, it'll work if it'
 Dialogue: 0,0:09:42.05,0:09:44.78,punie dialogue,,0,0,0,,You're right.\NLet's do a good job, everyone.
 Dialogue: 0,0:09:44.92,0:09:46.25,punie dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:09:46.35,0:09:50.09,punie dialogue,,0,0,0,,But I wonder why Anego and\Nher gang want to harass her?
-Dialogue: 0,0:09:50.09,0:09:52.52,punie dialogue,,0,0,0,,{\i1}Maiden Curry Hall{\i0}
+Dialogue: 0,0:09:50.06,0:09:51.19,punie signs fansub,,0,0,0,,{\an8}Maiden Curry Hall
 Dialogue: 0,0:09:54.09,0:09:56.53,punie dialogue,,0,0,0,,We don't have any customers.
 Dialogue: 0,0:09:56.63,0:09:58.56,punie dialogue,,0,0,0,,Should I go fetch a few?
 Dialogue: 0,0:10:00.40,0:10:02.76,punie dialogue,,0,0,0,,Why don't you try some curry?
@@ -251,7 +253,7 @@ Dialogue: 0,0:15:23.02,0:15:24.01,punie dialogue,,0,0,0,,Wow!
 Dialogue: 0,0:15:25.36,0:15:26.85,punie dialogue,,0,0,0,,Delicious, paya!
 Dialogue: 0,0:15:26.96,0:15:30.55,punie dialogue,,0,0,0,,Thank you, paya.\NI don't know how to thank you.
 Dialogue: 0,0:15:30.66,0:15:32.06,punie dialogue,,0,0,0,,You're welcome.
-Dialogue: 0,0:15:32.16,0:15:35.36,punie dialogue,,0,0,0,,Pa
+Comment: 0,0:15:32.16,0:15:35.36,punie dialogue,,0,0,0,,Pa
 Dialogue: 0,0:15:32.16,0:15:33.63,punie dialogue,,0,0,0,,I'm Payatan.
 Dialogue: 0,0:15:33.63,0:15:35.36,punie dialogue,,0,0,0,,I'm from the land of magic.
 Dialogue: 0,0:15:35.47,0:15:37.39,punie dialogue,,0,0,0,,Magic?
@@ -281,7 +283,7 @@ Dialogue: 0,0:16:34.26,0:16:38.39,punie dialogue,,0,0,0,,You should go to Exciti
 Dialogue: 0,0:16:38.63,0:16:42.33,punie dialogue,,0,0,0,,"Exciting Mascot Village"?\NSounds like fun!
 Dialogue: 0,0:16:42.84,0:16:47.83,punie dialogue,,0,0,0,,I still remember when I went to see\NPayatan at Exciting Mascot Village.
 Dialogue: 0,0:16:47.94,0:16:48.91,punie dialogue,,0,0,0,,Paya.
-Dialogue: 0,0:16:49.88,0:16:52.87,punie dialogue,,0,0,0,,{\i1}Exciting Mascot Village{\i0}
+Dialogue: 0,0:16:49.86,0:16:59.83,punie dialogue,,60,0,0,,{\an7}Exciting Mascot Village
 Dialogue: 0,0:17:04.02,0:17:07.22,punie dialogue,,0,0,0,,Go away!\NYou're obstructing my business!
 Dialogue: 0,0:17:07.66,0:17:10.18,punie dialogue,,0,0,0,,There! All right, 4, 5, 6!
 Dialogue: 0,0:17:10.40,0:17:13.66,punie dialogue,,0,0,0,,And this broad was really something.
@@ -303,10 +305,10 @@ Dialogue: 0,0:18:06.95,0:18:08.58,punie dialogue,,0,0,0,,Bro...
 Dialogue: 0,0:18:07.35,0:18:08.58,punie dialogue,,0,0,0,,Bro Payatan...
 Dialogue: 0,0:18:08.69,0:18:09.74,punie dialogue,,0,0,0,,Move.
 Dialogue: 0,0:18:09.86,0:18:14.32,punie dialogue,,0,0,0,,You're Payatan? Your fame\Nhas reached our kingdom as well.
-Dialogue: 0,0:18:14.43,0:18:17.19,punie dialogue,,0,0,0,,Booze
+Dialogue: 0,0:18:13.32,0:18:16.57,punie dialogue,,0,0,0,,{\an8}Booze
 Dialogue: 0,0:18:14.43,0:18:17.19,punie dialogue,,0,0,0,,Bartender, get me the usual.
 Dialogue: 0,0:18:18.53,0:18:19.66,punie dialogue,,0,0,0,,Got it.
-Dialogue: 0,0:18:20.47,0:18:22.43,punie dialogue,,0,0,0,,{\i1}Coffee Milk{\i0}
+Dialogue: 0,0:18:20.41,0:18:23.12,punie dialogue,,0,0,0,,{\an8}Coffee Milk
 Dialogue: 0,0:18:27.00,0:18:28.47,punie dialogue,,0,0,0,,Listen, miss.
 Dialogue: 0,0:18:29.81,0:18:32.61,punie dialogue,,0,0,0,,This is a place to drink and have fun.
 Dialogue: 0,0:18:33.31,0:18:38.72,punie dialogue,,0,0,0,,If you have eyes as shiny as a sword,\Nyou won't live very long in this village.
@@ -379,7 +381,7 @@ Dialogue: 0,0:22:47.16,0:22:49.19,punie dialogue,,0,0,0,,You don't need any magi
 Dialogue: 0,0:22:49.30,0:22:51.39,punie dialogue,,0,0,0,,Oh, Anego-san. You're alive?
 Dialogue: 0,0:22:51.50,0:22:53.40,punie dialogue,,0,0,0,,I'm not dead yet!
 Dialogue: 0,0:22:53.87,0:22:54.84,punie dialogue,,0,0,0,,Hehe.
-Dialogue: 0,0:22:54.94,0:22:57.34,punie dialogue,,0,0,0,,{\i1}To Be Continued{\i0}
+Dialogue: 0,0:22:54.97,0:22:57.35,punie signs fansub,,0,0,0,,To Be Continued
 Dialogue: 0,0:23:14.49,0:23:22.33,punie songs,,0,0,0,,If you bend the knees upside down...
 Dialogue: 0,0:23:22.60,0:23:29.84,punie songs,,0,0,0,,...even your belief about\Ncrushing a rock becomes distorted.
 Dialogue: 0,0:23:30.61,0:23:38.11,punie songs,,0,0,0,,Good, justice, and even the truth\Nis gone when you feel the pain.
