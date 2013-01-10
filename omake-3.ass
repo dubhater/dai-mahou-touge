@@ -6,14 +6,14 @@ PlayResY: 480
 WarpStyle: 0
 ScaledBorderAndShadow: yes
 Audio URI: ../audio/omake3 T80 2_0ch 192Kbps DELAY 0ms.ac3
-Scroll Position: 19
+Scroll Position: 17
 Active Line: 23
 Video Zoom Percent: 1
 Keyframes File: ../scxvid/omake3-scxvid.txt
 Video File: ../raws/omake3.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.36364
-Video Position: 2803
+Video Position: 2750
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -24,27 +24,27 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.47,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Ingredients{\i0}
-Dialogue: 0,0:00:05.34,0:00:10.29,punie dialogue,,0,0,0,,This is the Magic Forest. We're here\Nto hunt for matsutake mushrooms.
-Dialogue: 0,0:00:10.29,0:00:14.33,punie dialogue,,0,0,0,,Hey, Punie-chan, I don't\Nsee any matsutake anywhere.
-Dialogue: 0,0:00:14.33,0:00:15.41,punie dialogue,,0,0,0,,That's true.
-Dialogue: 0,0:00:23.49,0:00:25.29,punie dialogue,,0,0,0,,There. This way.
-Dialogue: 0,0:00:26.39,0:00:27.29,punie dialogue,,0,0,0,,It's there?
-Dialogue: 0,0:00:39.61,0:00:40.85,punie dialogue,,0,0,0,,Uniko-san!
-Dialogue: 0,0:00:40.85,0:00:42.07,punie dialogue,,0,0,0,,Unio-san!
-Dialogue: 0,0:00:43.88,0:00:47.61,punie dialogue,,0,0,0,,In the land of magic, matsutake\Ngrows on a matsutake unicorn.
-Dialogue: 0,0:00:48.60,0:00:50.61,punie dialogue,,0,0,0,,It can't be you're...
+Dialogue: 0,0:00:00.00,0:00:02.48,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Ingredients{\i0}
+Dialogue: 0,0:00:05.35,0:00:10.28,punie dialogue,,0,0,0,,This is the Magic Forest. We're here\Nto hunt for matsutake mushrooms.
+Dialogue: 0,0:00:10.28,0:00:14.32,punie dialogue,,0,0,0,,Hey, Punie-chan, I don't\Nsee any matsutake anywhere.
+Dialogue: 0,0:00:14.32,0:00:15.41,punie dialogue,,0,0,0,,That's true.
+Dialogue: 0,0:00:23.50,0:00:25.29,punie dialogue,,0,0,0,,There. This way.
+Dialogue: 0,0:00:26.38,0:00:27.29,punie dialogue,,0,0,0,,It's there?
+Dialogue: 0,0:00:39.60,0:00:40.85,punie dialogue,,0,0,0,,Uniko-san!
+Dialogue: 0,0:00:40.85,0:00:42.06,punie dialogue,,0,0,0,,Unio-san!
+Dialogue: 0,0:00:43.89,0:00:47.61,punie dialogue,,0,0,0,,In the land of magic, matsutake\Ngrows on a matsutake unicorn.
+Dialogue: 0,0:00:48.61,0:00:50.61,punie dialogue,,0,0,0,,It can't be you're...
 Dialogue: 0,0:00:51.48,0:00:55.07,punie dialogue,,0,0,0,,Didn't I say it's "matsutake hunting"?
 Dialogue: 0,0:00:58.16,0:00:59.95,punie dialogue,,0,0,0,,You're the witch from that time!
 Dialogue: 0,0:01:02.58,0:01:03.37,punie dialogue,,0,0,0,,Let go!
 Dialogue: 0,0:01:07.25,0:01:08.92,punie dialogue,,0,0,0,,It hurts! It hurts!
 Dialogue: 0,0:01:09.38,0:01:10.80,punie dialogue,,0,0,0,,Unio-san!
 Dialogue: 0,0:01:23.72,0:01:24.77,punie dialogue,,0,0,0,,Unio-san!
-Dialogue: 0,0:01:25.49,0:01:27.75,punie dialogue,,0,0,0,,Hang on, Unio-san!
-Dialogue: 0,0:01:29.29,0:01:33.42,punie dialogue,,0,0,0,,I'll curse you till\Nthe royal family's line ends!
+Dialogue: 0,0:01:25.48,0:01:27.73,punie dialogue,,0,0,0,,Hang on, Unio-san!
+Dialogue: 0,0:01:29.27,0:01:33.40,punie dialogue,,0,0,0,,I'll curse you till\Nthe royal family's line ends!
 Dialogue: 0,0:01:33.73,0:01:36.11,punie dialogue,,0,0,0,,I'll curse you!
-Dialogue: 0,0:01:37.10,0:01:40.62,punie dialogue,,0,0,0,,That is the way of the proud unicorn.
-Dialogue: 0,0:01:41.10,0:01:44.62,punie dialogue,,0,0,0,,I can't eat this matsutake...
+Dialogue: 0,0:01:37.11,0:01:40.62,punie dialogue,,0,0,0,,That is the way of the proud unicorn.
+Dialogue: 0,0:01:41.08,0:01:44.62,punie dialogue,,0,0,0,,I can't eat this matsutake...
 Dialogue: 0,0:01:45.16,0:01:47.12,punie dialogue,,0,0,0,,I can't eat it!
-Dialogue: 0,0:01:51.88,0:01:54.69,punie dialogue,,0,0,0,,But somehow my chopsticks are...
-Dialogue: 0,0:01:54.69,0:01:56.38,punie dialogue,,0,0,0,,Delicious!
+Dialogue: 0,0:01:51.88,0:01:54.67,punie dialogue,,0,0,0,,But somehow my chopsticks are...
+Dialogue: 0,0:01:54.67,0:01:56.38,punie dialogue,,0,0,0,,Delicious!
