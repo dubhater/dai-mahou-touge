@@ -24,33 +24,33 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.48,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}State of the Society{\i0}
-Dialogue: 0,0:00:03.94,0:00:07.69,punie dialogue,,0,0,0,,So we're here in the land of magic!
+Dialogue: 0,0:00:00.00,0:00:03.48,punie dialogue,,0,0,0,,{\i1}Punie’s Homecoming:{\i0}\N{\i1}State of the Society{\i0}
+Dialogue: 0,0:00:03.94,0:00:07.69,punie dialogue,,0,0,0,,So we’re here in the land of magic!
 Dialogue: 0,0:00:07.69,0:00:13.65,punie dialogue,,0,0,0,,Like its name suggests, this place is\Nfilled with buildings out of fairy tales.
-Dialogue: 0,0:00:14.24,0:00:15.66,punie dialogue,,0,0,0,,It's wonderful, right?
-Dialogue: 0,0:00:15.91,0:00:20.08,punie dialogue,,0,0,0,,I'm jealous. I'd like\Nto live somewhere fun like...
+Dialogue: 0,0:00:14.24,0:00:15.66,punie dialogue,,0,0,0,,It’s wonderful, right?
+Dialogue: 0,0:00:15.91,0:00:20.08,punie dialogue,,0,0,0,,I’m jealous. I’d like\Nto live somewhere fun like…
 Dialogue: 0,0:00:22.08,0:00:23.83,punie dialogue,,0,0,0,,Get him!
-Dialogue: 0,0:00:40.35,0:00:41.85,punie dialogue,,0,0,0,,Punie-chan...
+Dialogue: 0,0:00:40.35,0:00:41.85,punie dialogue,,0,0,0,,Punie-chan…
 Dialogue: 0,0:00:42.39,0:00:44.23,punie dialogue,,0,0,0,,What is this place?
-Dialogue: 0,0:00:44.23,0:00:47.61,punie dialogue,,0,0,0,,You can't do much\Nabout economic inequality.
-Dialogue: 0,0:00:47.61,0:00:52.11,punie dialogue,,0,0,0,,It can't be helped. If we don't exploit\Nthem, the country can't stand.
+Dialogue: 0,0:00:44.23,0:00:47.61,punie dialogue,,0,0,0,,You can’t do much\Nabout economic inequality.
+Dialogue: 0,0:00:47.61,0:00:52.11,punie dialogue,,0,0,0,,It can’t be helped. If we don’t exploit\Nthem, the country can’t stand.
 Dialogue: 0,0:00:58.32,0:00:59.41,punie dialogue,,0,0,0,,Weird.
 Dialogue: 0,0:00:59.41,0:01:03.66,punie dialogue,,0,0,0,,It normally passes right\Nthrough this area. Is it terrorism?
 Dialogue: 0,0:01:03.66,0:01:04.58,punie dialogue,,0,0,0,,Terrorism?
 Dialogue: 0,0:01:04.58,0:01:06.42,punie dialogue,,0,0,0,,Divine punishment!
 Dialogue: 0,0:01:06.42,0:01:10.59,punie dialogue,,0,0,0,,Why do you treat your people like this?
-Dialogue: 0,0:01:07.63,0:01:10.59,punie dialogue,,0,0,0,,We'll be taking your life!
+Dialogue: 0,0:01:07.63,0:01:10.59,punie dialogue,,0,0,0,,We’ll be taking your life!
 Dialogue: 0,0:01:11.25,0:01:13.42,punie dialogue,,0,0,0,,As I thought, terrorists.
-Dialogue: 0,0:01:13.42,0:01:17.68,punie dialogue,,0,0,0,,I can't avoid this.\NI'll take care of them with my magic.
-Dialogue: 0,0:01:18.01,0:01:21.14,punie dialogue,,0,0,0,,They're so poor,\Nyet they have Anisakis shields!
+Dialogue: 0,0:01:13.42,0:01:17.68,punie dialogue,,0,0,0,,I can’t avoid this.\NI’ll take care of them with my magic.
+Dialogue: 0,0:01:18.01,0:01:21.14,punie dialogue,,0,0,0,,They’re so poor,\Nyet they have Anisakis shields!
 Dialogue: 0,0:01:21.43,0:01:25.48,punie dialogue,,0,0,0,,With those around, my magical\Nattacks will be rendered useless.
-Dialogue: 0,0:01:25.48,0:01:28.15,punie dialogue,,0,0,0,,My magic won't work, so...
-Dialogue: 0,0:01:28.60,0:01:30.36,punie dialogue,,0,0,0,,I'll have to use submission holds!
+Dialogue: 0,0:01:25.48,0:01:28.15,punie dialogue,,0,0,0,,My magic won’t work, so…
+Dialogue: 0,0:01:28.60,0:01:30.36,punie dialogue,,0,0,0,,I’ll have to use submission holds!
 Dialogue: 0,0:01:31.32,0:01:32.61,punie dialogue,,0,0,0,,Princess Manji Hold!
 Dialogue: 0,0:01:33.11,0:01:35.11,punie dialogue,,0,0,0,,Princess Standing Neck Lock!
 Dialogue: 0,0:01:35.61,0:01:37.61,punie dialogue,,0,0,0,,Princess Telephone Arm Lock!
 Dialogue: 0,0:01:38.66,0:01:41.62,punie dialogue,,0,0,0,,Rioting over a little\Noppression is uncalled for.
 Dialogue: 0,0:01:41.99,0:01:46.66,punie dialogue,,0,0,0,,Say, is the land of magic\Na dictatorship devastated by fascism?
-Dialogue: 0,0:01:46.66,0:01:50.17,punie dialogue,,0,0,0,,We're almost at\Nthe royal palace. Let's head on out!
-Dialogue: 0,0:01:53.42,0:01:56.26,punie dialogue,,0,0,0,,I'm Punie, a magical princess.
+Dialogue: 0,0:01:46.66,0:01:50.17,punie dialogue,,0,0,0,,We’re almost at\Nthe royal palace. Let’s head on out!
+Dialogue: 0,0:01:53.42,0:01:56.26,punie dialogue,,0,0,0,,I’m Punie, a magical princess.
 Dialogue: 0,0:01:56.26,0:02:00.05,punie dialogue,,0,0,0,,The reason I came to\Nthe world of humans is a secret.
