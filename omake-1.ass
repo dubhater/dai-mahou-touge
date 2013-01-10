@@ -24,17 +24,17 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.98,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Civilization{\i0}
-Dialogue: 0,0:00:02.27,0:00:05.69,punie dialogue,,0,0,0,,Punie-chan,\Nwhat's the land of magic like?
+Dialogue: 0,0:00:00.00,0:00:01.98,punie dialogue,,0,0,0,,{\i1}Punie’s Homecoming:{\i0}\N{\i1}Civilization{\i0}
+Dialogue: 0,0:00:02.27,0:00:05.69,punie dialogue,,0,0,0,,Punie-chan,\Nwhat’s the land of magic like?
 Dialogue: 0,0:00:05.69,0:00:06.90,punie dialogue,,0,0,0,,Shall we go there?
 Dialogue: 0,0:00:07.52,0:00:11.86,punie dialogue,,0,0,0,,Lyrical Tokarev, kill them all!
-Dialogue: 0,0:00:17.74,0:00:20.58,punie dialogue,,0,0,0,,Let's take the Metro\NMagic Line to the castle!
+Dialogue: 0,0:00:17.74,0:00:20.58,punie dialogue,,0,0,0,,Let’s take the Metro\NMagic Line to the castle!
 Dialogue: 0,0:00:21.08,0:00:25.54,punie dialogue,,0,0,0,,A tram in the land of magic!\NI wonder what powers this thing?
-Dialogue: 0,0:00:28.34,0:00:30.96,punie dialogue,,0,0,0,,The first light in ten years... Save us...
-Dialogue: 0,0:00:32.42,0:00:34.26,punie dialogue,,0,0,0,,Punie-chan, that was...
-Dialogue: 0,0:00:34.26,0:00:37.18,punie dialogue,,0,0,0,,The tram's slow, so let's\Ntake the Magic Southern Central.
-Dialogue: 0,0:00:39.64,0:00:44.10,punie dialogue,,0,0,0,,There's no pantograph line.\NDoes it get power from a third rail?
-Dialogue: 0,0:00:50.78,0:00:53.74,punie dialogue,,0,0,0,,I'm gonna die... Let me off...
-Dialogue: 0,0:00:54.28,0:00:57.57,punie dialogue,,0,0,0,,Punie-chan,\Ndoes the land of magic run on...
+Dialogue: 0,0:00:28.34,0:00:30.96,punie dialogue,,0,0,0,,The first light in ten years… Save us…
+Dialogue: 0,0:00:32.42,0:00:34.26,punie dialogue,,0,0,0,,Punie-chan, that was…
+Dialogue: 0,0:00:34.26,0:00:37.18,punie dialogue,,0,0,0,,The tram’s slow, so let’s\Ntake the Magic Southern Central.
+Dialogue: 0,0:00:39.64,0:00:44.10,punie dialogue,,0,0,0,,There’s no pantograph line.\NDoes it get power from a third rail?
+Dialogue: 0,0:00:50.78,0:00:53.74,punie dialogue,,0,0,0,,I’m gonna die… Let me off…
+Dialogue: 0,0:00:54.28,0:00:57.57,punie dialogue,,0,0,0,,Punie-chan,\Ndoes the land of magic run on…
 Dialogue: 0,0:00:57.57,0:01:00.24,punie dialogue,,0,0,0,,Oh, the Magical\NGovernment Office building!
-Dialogue: 0,0:01:00.24,0:01:02.24,punie dialogue,,0,0,0,,Don't change the subject!
+Dialogue: 0,0:01:00.24,0:01:02.24,punie dialogue,,0,0,0,,Don’t change the subject!
