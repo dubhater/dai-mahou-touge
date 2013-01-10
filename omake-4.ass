@@ -5,9 +5,15 @@ PlayResX: 712
 PlayResY: 480
 WarpStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 0
-Active Line: 0
+Scroll Position: 13
+Active Line: 17
 Video Zoom Percent: 1
+Audio URI: ../audio/omake4 T80 2_0ch 192Kbps DELAY 0ms.ac3
+Keyframes File: ../scxvid/omake4-scxvid.txt
+Video File: ../raws/omake4.mkv
+YCbCr Matrix: TV.601
+Video Aspect Ratio: c1.34848
+Video Position: 1844
 ScriptType: v4.00+
 
 [V4+ Styles]
@@ -18,21 +24,21 @@ Style: punie songs,Gill Sans Std,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:02.77,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Esmeralda{\i0}
-Dialogue: 0,0:00:03.90,0:00:05.93,punie dialogue,,0,0,0,,It's summer break right now.
-Dialogue: 0,0:00:06.04,0:00:10.14,punie dialogue,,0,0,0,,I brought Tetsuko-chan back to\Nmy home for the first time in a while.
-Dialogue: 0,0:00:10.74,0:00:15.15,punie dialogue,,0,0,0,,I'm Punie's mother, Esmeralda.\NThank you for coming all this way.
-Dialogue: 0,0:00:15.48,0:00:19.75,punie dialogue,,0,0,0,,Nice to meet you. I'm Tetsuko Koku,\Nher friend and classmate.
-Dialogue: 0,0:00:20.12,0:00:23.38,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.
-Dialogue: 0,0:00:23.49,0:00:25.12,punie dialogue,,0,0,0,,Thanks so much.
-Dialogue: 0,0:00:28.13,0:00:29.89,punie dialogue,,0,0,0,,Die, Esmeralda!
-Dialogue: 0,0:00:30.00,0:00:32.26,punie dialogue,,0,0,0,,Get out of the way!
-Dialogue: 0,0:00:36.77,0:00:39.57,punie dialogue,,0,0,0,,It's a coup by\Nthe witches! We're done for!
-Dialogue: 0,0:00:39.67,0:00:42.94,punie dialogue,,0,0,0,,I'll be gone for a bit.
-Dialogue: 0,0:00:41.14,0:00:42.94,punie dialogue,,0,0,0,,Yes, Mama.
-Dialogue: 0,0:00:46.01,0:00:49.34,punie dialogue,,0,0,0,,You've shown yourself!
-Dialogue: 0,0:00:47.31,0:00:49.34,punie dialogue,,0,0,0,,Like a moth to a flame!
-Dialogue: 0,0:00:49.45,0:00:50.78,punie dialogue,,0,0,0,,Get her!
-Dialogue: 0,0:00:52.68,0:00:57.59,punie dialogue,,0,0,0,,Lyrical Tokarev, nobody, no cry!
-Dialogue: 0,0:01:14.61,0:01:15.90,punie dialogue,,0,0,0,,Now then...
-Dialogue: 0,0:01:17.21,0:01:21.34,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.
+Dialogue: 0,0:00:00.00,0:00:02.47,punie dialogue,,0,0,0,,{\i1}Punie's Homecoming:{\i0}\N{\i1}Esmeralda{\i0}
+Dialogue: 0,0:00:03.60,0:00:05.71,punie dialogue,,0,0,0,,It's summer break right now.
+Dialogue: 0,0:00:05.71,0:00:09.86,punie dialogue,,0,0,0,,I brought Tetsuko-chan back to\Nmy home for the first time in a while.
+Dialogue: 0,0:00:10.44,0:00:14.85,punie dialogue,,0,0,0,,I'm Punie's mother, Esmeralda.\NThank you for coming all this way.
+Dialogue: 0,0:00:15.18,0:00:19.45,punie dialogue,,0,0,0,,Nice to meet you. I'm Tetsuko Koku,\Nher friend and classmate.
+Dialogue: 0,0:00:19.82,0:00:23.16,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.
+Dialogue: 0,0:00:23.16,0:00:24.82,punie dialogue,,0,0,0,,Thanks so much.
+Dialogue: 0,0:00:27.83,0:00:29.46,punie dialogue,,0,0,0,,Die, Esmeralda!
+Dialogue: 0,0:00:29.46,0:00:31.96,punie dialogue,,0,0,0,,Get out of the way!
+Dialogue: 0,0:00:36.47,0:00:39.35,punie dialogue,,0,0,0,,It's a coup by\Nthe witches! We're done for!
+Dialogue: 0,0:00:39.35,0:00:40.84,punie dialogue,,0,0,0,,I'll be gone for a bit.
+Dialogue: 0,0:00:40.84,0:00:42.64,punie dialogue,,0,0,0,,Yes, Mama.
+Dialogue: 0,0:00:45.48,0:00:47.01,punie dialogue,,0,0,0,,You've shown yourself!
+Dialogue: 0,0:00:47.01,0:00:48.98,punie dialogue,,0,0,0,,Like a moth to a flame!
+Dialogue: 0,0:00:48.98,0:00:50.48,punie dialogue,,0,0,0,,Get her!
+Dialogue: 0,0:00:52.38,0:00:57.49,punie dialogue,,0,0,0,,Lyrical Tokarev, nobody, no cry!
+Dialogue: 0,0:01:14.31,0:01:15.60,punie dialogue,,0,0,0,,Now then...
+Dialogue: 0,0:01:16.91,0:01:21.04,punie dialogue,,0,0,0,,There's not much here,\Nbut make yourself at home.
