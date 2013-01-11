@@ -284,7 +284,7 @@ Dialogue: 0,0:16:34.22,0:16:38.43,punie dialogue,,0,0,0,,You should go to Exciti
 Dialogue: 0,0:16:38.43,0:16:42.35,punie dialogue,,0,0,0,,“Exciting Mascot Village”?\NSounds like fun!
 Dialogue: 0,0:16:42.85,0:16:47.90,punie dialogue,,0,0,0,,I still remember when I went to see\NPayatan at Exciting Mascot Village.
 Dialogue: 0,0:16:47.90,0:16:48.90,punie dialogue,,0,0,0,,Paya.
-Dialogue: 0,0:16:49.86,0:16:59.83,punie dialogue,,60,0,0,,{\an7}Exciting Mascot Village
+Dialogue: 0,0:16:49.86,0:16:59.83,punie signs fansub,,60,0,0,,{\an7}Exciting Mascot Village
 Dialogue: 0,0:17:03.79,0:17:07.21,punie dialogue,,0,0,0,,Go away!\NYou’re obstructing my business!
 Dialogue: 0,0:17:07.67,0:17:10.21,punie dialogue,,0,0,0,,There! All right, 4, 5, 6!
 Dialogue: 0,0:17:10.21,0:17:13.67,punie dialogue,,0,0,0,,And this broad was really something.
@@ -306,10 +306,10 @@ Dialogue: 0,0:18:06.94,0:18:07.35,punie dialogue,,0,0,0,,Bro…{\alpha&Hff&} Pay
 Dialogue: 0,0:18:07.35,0:18:08.65,punie dialogue,,0,0,0,,Bro Payatan…
 Dialogue: 0,0:18:08.65,0:18:09.35,punie dialogue,,0,0,0,,Move.
 Dialogue: 0,0:18:09.81,0:18:14.44,punie dialogue,,0,0,0,,You’re Payatan? Your fame\Nhas reached our kingdom as well.
-Dialogue: 0,0:18:13.32,0:18:16.57,punie dialogue,,0,0,0,,{\an8}Booze\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:18:13.32,0:18:16.57,punie signs fansub,,0,0,0,,{\an8}Booze\h\h\h\h\h\h\h\h\h\h
 Dialogue: 0,0:18:14.44,0:18:17.20,punie dialogue,,0,0,0,,Bartender, get me the usual.
 Dialogue: 0,0:18:18.53,0:18:19.20,punie dialogue,,0,0,0,,Got it.
-Dialogue: 0,0:18:20.28,0:18:23.12,punie dialogue,,0,0,0,,{\an8}Coffee Milk
+Dialogue: 0,0:18:20.28,0:18:23.12,punie signs fansub,,0,0,0,,{\an8}Coffee Milk
 Dialogue: 0,0:18:27.00,0:18:28.46,punie dialogue,,0,0,0,,Listen, miss.
 Dialogue: 0,0:18:29.79,0:18:32.59,punie dialogue,,0,0,0,,This is a place to drink and have fun.
 Dialogue: 0,0:18:33.29,0:18:38.80,punie dialogue,,0,0,0,,If you have eyes as shiny as a sword,\Nyou won’t live very long in this village.
